@@ -1,0 +1,52 @@
+Testing weka.classifiers.rules.ZeroR on dvi-disc.arff
+  Checking option:
+  MCC on test data: NaN
+               AUC: 0.5
+              Acc.: 43.83561643835616
+Testing weka.classifiers.trees.RandomForest on dvi-disc.arff
+  Checking option:
+  MCC on test data: 0.27110910117284254
+               AUC: 0.70578231292517
+              Acc.: 57.534246575342465
+  Checking option: -P 84 -K 1 -I 20
+  MCC on test data: 0.1530620132090494
+               AUC: 0.6403061224489796
+              Acc.: 46.57534246575342
+  Checking option: -P 84 -K 1 -I 20 -B
+  MCC on test data: 0.1530620132090494
+               AUC: 0.6403061224489796
+              Acc.: 46.57534246575342
+Testing weka.classifiers.bayes.NaiveBayes on dvi-disc.arff
+  Checking option:
+  MCC on test data: 0.047680725910506795
+               AUC: 0.625
+              Acc.: 46.57534246575342
+Testing weka.classifiers.functions.MLPClassifier on dvi-disc.arff
+  Checking option: -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+  MCC on test data: 0.18865589843259145
+               AUC: 0.6105442176870748
+              Acc.: 41.0958904109589
+  Checking option: -N 10 -R 0.01 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+  MCC on test data: 0.21583463660377192
+               AUC: 0.6062925170068028
+              Acc.: 49.31506849315068
+Testing weka.classifiers.functions.LibSVM on dvi-disc.arff
+  Checking option: -D 3 -seed 1 -W 1 -R 0 -M 40
+  MCC on test data: NaN
+               AUC: 0.5
+              Acc.: 43.83561643835616
+  Checking option: -C 1 -G 3.814697265625E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+  MCC on test data: 0.23233508524700847
+               AUC: 0.6173469387755102
+              Acc.: 50.68493150684932
+Testing weka.classifiers.lazy.IBk on dvi-disc.arff
+  Checking option:
+  MCC on test data: 0.29378603170726797
+               AUC: 0.6483843537414966
+              Acc.: 50.68493150684932
+  Checking option: -K 8 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+  MCC on test data: 0.1530620132090494
+               AUC: 0.6262755102040817
+              Acc.: 45.205479452054796
+Completely done!
+

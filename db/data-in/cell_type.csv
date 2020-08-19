@@ -1,0 +1,7 @@
+key,description
+"HEK","HEK293, tsA201, Human embryonic kidney cell"
+"CHO","CHO, Chinese hamster ovary cell"
+"COS", "COS-7, African green monkey kidney cell"
+"Oocyte", "Xenopus laevis oocyte"
+"hiPSC", "Human induced pluripotent stem cell"
+"Mouse myocyte", "Mouse myocyte"

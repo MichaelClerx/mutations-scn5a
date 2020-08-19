@@ -1,0 +1,6 @@
+EPDATA Issues
+=============
+
++ The slope for inactivation is sometimes given as positive, sometimes as
+  negative! Cannot use this field until checked that the definition is the same
+  everywhere or values are adjusted.

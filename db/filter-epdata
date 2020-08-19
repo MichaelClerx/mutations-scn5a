@@ -1,0 +1,137 @@
+#!/usr/bin/env python3
+#
+# Creates a filtered version of the epdata table
+#
+import base
+import csv
+import os
+import numpy as np
+
+fin = os.path.join(base.DIR_DATA_IN, 'epdata.csv')
+fout = os.path.join(base.DIR_DATA_IN, 'epdata_filtered.csv')
+
+# Make sure epdata_filtered can be loaded so that db works
+replace_file = False
+with open(fout, 'r') as f:
+    if len(f.readlines()) < 1:
+        replace_file = True
+if replace_file:
+    print('Replacing epdata filtered!')
+    with open(fin, 'r') as f:
+        with open(fout, 'w') as g:
+            g.write(f.readline())
+
+# Connect and update epdata filtered
+with base.connect() as connection:
+    c = connection.cursor()
+    
+    # Gather mutations
+    q = 'select * from epdata where zero = 0 order by idx, new, pub'
+    mutations = []
+    rows = {}
+    for row in c.execute(q):
+        # Ignore zero current mutations
+        mut = row['old'], row['idx'], row['new']
+        try:
+            muts = rows[mut]
+        except KeyError:
+            muts = []
+            rows[mut] = muts
+            mutations.append(mut)
+        muts.append(row)
+
+    # Write filtered data
+    with open(fout, 'w') as f:
+        w = csv.writer(f, **base.CSV_OPTIONS)
+        
+        # Set field names
+        q = 'select * from epdata limit 1'
+        c.execute(q)
+        fields = [x[0] for x in c.description]
+        fields = fields[1:] # Skip key (auto increment)
+        w.writerow(fields)
+    
+        # Conflict resolution
+        def apply(options, name, rule):
+            filtered = [x for x in options if rule(x)]
+            if len(filtered) < 1:
+                print('  No options match rule: ' + name)
+                return options
+            print('  Applied rule: ' + name + ', (' + str(len(filtered))
+                + ' options remaining)')
+            return filtered
+        def equal(raw, *options):
+            if raw is None:
+                return x is None
+            raw = str(raw)
+            raw = raw.lower()
+            raw = raw.strip()
+            for option in options:
+                if raw == option.lower().strip():
+                    return True
+            return False
+    
+        # Write mutations
+        unresolved = 0
+        for mut in mutations:
+            rs = rows[mut]
+            # Detect conflict
+            if len(rs) > 1:
+                old,idx,new = [str(x) for x in mut]
+                print('Conflict: ' + old + idx + new + ' (' + str(len(rs))
+                    + ' options)')
+                # Rule 1: Prefer beta1 subunit
+                if len(rs) > 1:            
+                    rs = apply(rs, 'Beta1',
+                        lambda x: equal(x['beta1'], 'yes'))
+                # Rule 2: Prefer isoform b
+                if len(rs) > 1:            
+                    rs = apply(rs, 'Isoform b',
+                        lambda x: equal(x['sequence'], 'b'))
+                # Rule 3: Prefer hek
+                if len(rs) > 1:            
+                    rs = apply(rs, 'HEK',
+                        lambda x: equal(x['cell'], 'HEK'))
+                # Rule 4: Newest
+                if len(rs) > 1:
+                    print('Applying rule: Newest')
+                    years = [str(x['pub']) for x in rs]
+                    years = [int(x.split()[1][:4]) for x in years]
+                    i = np.argmax(years)
+                    rs = [rs[i]]
+                # Warn about unresolved conflicts
+                if len(rs) > 1:
+                    unresolved += 1
+                    print('  Unresolved conflict!')
+                    print('  Options:')
+                    for r in rs:
+                        fields = [
+                            'pub',
+                            'cell',
+                            'sequence',
+                            'beta1',
+                            'homozygous',
+                            ]
+                        print('    ' + ', '.join([str(r[x]) for x in fields]))
+                else:
+                    print('  Resolved')
+            # Write
+            row = rs[0]
+            row = [row[x] for x in fields]
+            for k, x in enumerate(row):
+                if x is None:
+                    row[k] = 'None'
+            w.writerow(row)
+            
+    # Check if unresolved
+    if unresolved:
+        print('-'*40)
+        print(str(unresolved) + ' Unresolved conflict'
+             + 's' if unresolved > 1 else '')
+        print('Please fix before using')
+        import sys
+        sys.exit(1)
+
+print('Checking result...')
+with base.connect() as connection:
+    print('Done')

@@ -1,0 +1,3645 @@
+MCC: 0.3886472094666659
+AUC: 0.6854967037963173
+Acc: 69.8529411764706
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-8 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3886472094666659
+AUC: 0.6844737440327348
+Acc: 69.8529411764706
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-9 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3886472094666659
+AUC: 0.6790179586269607
+Acc: 69.8529411764706
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-8 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3886472094666659
+AUC: 0.6827688110934304
+Acc: 69.8529411764706
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-8 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.37639883653423906
+AUC: 0.6711752671061605
+Acc: 69.11764705882354
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-9 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.37639883653423906
+AUC: 0.6695839963628097
+Acc: 69.11764705882354
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-8 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.37639883653423906
+AUC: 0.7283473516708343
+Acc: 69.11764705882354
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.1 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.37069755282802674
+AUC: 0.6848147306205956
+Acc: 69.11764705882354
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-7 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.37069755282802674
+AUC: 0.6864060013639464
+Acc: 69.11764705882354
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-7 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.37069755282802674
+AUC: 0.678904296431007
+Acc: 69.11764705882354
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-7 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.37069755282802674
+AUC: 0.6782223232552853
+Acc: 69.11764705882354
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-9 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.37069755282802674
+AUC: 0.6800409183905433
+Acc: 69.11764705882354
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-9 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3652900437370767
+AUC: 0.6795862696067289
+Acc: 69.11764705882354
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-6 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3652900437370767
+AUC: 0.686178676972039
+Acc: 69.11764705882354
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-7 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3652900437370767
+AUC: 0.6886792452830188
+Acc: 69.11764705882354
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-6 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3652900437370767
+AUC: 0.685610365992271
+Acc: 69.11764705882354
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-8 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3583745745941192
+AUC: 0.6792452830188679
+Acc: 68.38235294117646
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-9 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3583745745941192
+AUC: 0.6683337122073199
+Acc: 68.38235294117646
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-8 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3527749058552127
+AUC: 0.6964082746078655
+Acc: 68.38235294117646
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-5 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3527749058552127
+AUC: 0.6828824732893839
+Acc: 68.38235294117646
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-7 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3527749058552127
+AUC: 0.6811775403500796
+Acc: 68.38235294117646
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-7 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.34745088246947636
+AUC: 0.6760627415321664
+Acc: 68.38235294117646
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-6 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.34745088246947636
+AUC: 0.7224369174812457
+Acc: 68.38235294117646
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.1 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.34745088246947636
+AUC: 0.6864060013639464
+Acc: 68.38235294117646
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-6 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.34745088246947636
+AUC: 0.6999318026824278
+Acc: 68.38235294117646
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-6 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.34745088246947636
+AUC: 0.6854967037963173
+Acc: 68.38235294117646
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-6 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3423951465746596
+AUC: 0.7070925210275063
+Acc: 68.38235294117646
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-5 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3403819381650011
+AUC: 0.675267106160491
+Acc: 67.6470588235294
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-6 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3403819381650011
+AUC: 0.6651511707206184
+Acc: 67.6470588235294
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-8 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3403819381650011
+AUC: 0.6678790634235053
+Acc: 67.6470588235294
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-7 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3403819381650011
+AUC: 0.6703796317344851
+Acc: 67.6470588235294
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-9 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3403819381650011
+AUC: 0.6662877926801546
+Acc: 67.6470588235294
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-9 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3348678478104126
+AUC: 0.6795862696067289
+Acc: 67.6470588235294
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-6 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3348678478104126
+AUC: 0.6852693794044101
+Acc: 67.6470588235294
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-5 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3348678478104126
+AUC: 0.6654921573084792
+Acc: 67.6470588235294
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-5 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3340524182829591
+AUC: 0.6927710843373494
+Acc: 66.91176470588235
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-9 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3296113510474848
+AUC: 0.6812912025460331
+Acc: 67.6470588235294
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-5 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3296113510474848
+AUC: 0.6932257331211639
+Acc: 67.6470588235294
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-8 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3281019397215725
+AUC: 0.7385769493066606
+Acc: 66.91176470588235
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.1 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3246055440056057
+AUC: 0.6815185269379405
+Acc: 67.6470588235294
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-9 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3246055440056057
+AUC: 0.7055012502841554
+Acc: 67.6470588235294
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-9 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3198454194135031
+AUC: 0.7182314162309615
+Acc: 67.6470588235294
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-5 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.31696486955602554
+AUC: 0.7126619686292339
+Acc: 66.91176470588235
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.1 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3159260169611067
+AUC: 0.7258467833598545
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.1 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3117597913548216
+AUC: 0.6934530575130712
+Acc: 66.91176470588235
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-8 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3117597913548216
+AUC: 0.6878836099113435
+Acc: 66.91176470588235
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-8 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3117597913548216
+AUC: 0.714139577176631
+Acc: 66.91176470588235
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-5 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3117597913548216
+AUC: 0.6954989770402364
+Acc: 66.91176470588235
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-9 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3117597913548216
+AUC: 0.6796999318026824
+Acc: 66.91176470588235
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-8 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3117597913548216
+AUC: 0.6820868379177085
+Acc: 66.91176470588235
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-7 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3117597913548216
+AUC: 0.6873152989315754
+Acc: 66.91176470588235
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-7 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3117597913548216
+AUC: 0.6911798135939986
+Acc: 66.91176470588235
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-7 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.31006632350197544
+AUC: 0.6854967037963173
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-9 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.31006632350197544
+AUC: 0.6862923391679927
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-8 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.31006632350197544
+AUC: 0.6870879745396681
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-8 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3067876531967716
+AUC: 0.6739031598090475
+Acc: 66.91176470588235
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-7 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3067876531967716
+AUC: 0.7131166174130484
+Acc: 66.91176470588235
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-5 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3044456518837485
+AUC: 0.7228915662650602
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.1 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3044456518837485
+AUC: 0.6906115026142305
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-8 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3044456518837485
+AUC: 0.6915208001818595
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-6 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3044456518837485
+AUC: 0.6732211866333258
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-6 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.3044456518837485
+AUC: 0.6929984087292567
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-6 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.303845550672266
+AUC: 0.6848147306205956
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-9 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.303845550672266
+AUC: 0.684701068424642
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-7 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.303845550672266
+AUC: 0.681063878154126
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-8 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.303845550672266
+AUC: 0.6867469879518072
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-9 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2990543341814603
+AUC: 0.685610365992271
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.001 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2990543341814603
+AUC: 0.6773130256876563
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-7 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2990543341814603
+AUC: 0.6865196635599
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-7 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2990543341814603
+AUC: 0.6737894976130939
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-5 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2978293048490258
+AUC: 0.6818595135258013
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-7 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2978293048490258
+AUC: 0.6695839963628097
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-7 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2978293048490258
+AUC: 0.6784496476471925
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-8 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2978293048490258
+AUC: 0.724482837008411
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.1 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.29388435125350937
+AUC: 0.6812912025460331
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-9 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.29388435125350937
+AUC: 0.6701523073425779
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-5 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.29388435125350937
+AUC: 0.6867469879518072
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-9 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.29388435125350937
+AUC: 0.7011820868379177
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-8 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.29388435125350937
+AUC: 0.6828824732893839
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-7 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.29388435125350937
+AUC: 0.6824278245055695
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-7 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.29388435125350937
+AUC: 0.6778813366674245
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-9 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.29388435125350937
+AUC: 0.6836781086610594
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-9 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2920440359864672
+AUC: 0.6933393953171175
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-6 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2920440359864672
+AUC: 0.6777676744714708
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-7 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2889293021141168
+AUC: 0.6617413048420095
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-8 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2889293021141168
+AUC: 0.678335985451239
+Acc: 66.17647058823529
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-6 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2864788566425747
+AUC: 0.7210729711298022
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.1 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2864788566425747
+AUC: 0.6740168220050011
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-5 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2864788566425747
+AUC: 0.6850420550125028
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-6 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2864788566425747
+AUC: 0.6850420550125028
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-9 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2864788566425747
+AUC: 0.7167538076835644
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.1 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.28568960717454056
+AUC: 0.6808365537622186
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-8 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.28568960717454056
+AUC: 0.6502614230506933
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-6 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.28568960717454056
+AUC: 0.681973175721755
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-9 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.28112443613498367
+AUC: 0.6877699477153899
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-6 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.28112443613498367
+AUC: 0.6835644464651057
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-8 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.28112443613498367
+AUC: 0.6864060013639464
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-9 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.28112443613498367
+AUC: 0.6999318026824278
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-5 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.28112443613498367
+AUC: 0.6868606501477609
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-7 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.28112443613498367
+AUC: 0.6676517390315981
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-4 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.28112443613498367
+AUC: 0.6881109343032508
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-6 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.28112443613498367
+AUC: 0.6785633098431462
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-7 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.28112443613498367
+AUC: 0.6914071379859059
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-9 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.28112443613498367
+AUC: 0.6886792452830188
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-7 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.28112443613498367
+AUC: 0.6876562855194363
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-7 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.28112443613498367
+AUC: 0.6811775403500796
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-8 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.28112443613498367
+AUC: 0.6726528756535576
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.001 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.28112443613498367
+AUC: 0.6878836099113435
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-9 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2797507088389498
+AUC: 0.6614003182541487
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-8 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2797507088389498
+AUC: 0.6770857012957491
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-5 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2797507088389498
+AUC: 0.6624232780177313
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-7 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2797507088389498
+AUC: 0.6686746987951807
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-5 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2797507088389498
+AUC: 0.6433280290975222
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-4 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2797507088389498
+AUC: 0.6579904523755399
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-5 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2797507088389498
+AUC: 0.6714025914980677
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-5 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2797507088389498
+AUC: 0.6714025914980677
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-6 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2797507088389498
+AUC: 0.6631052511934531
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-9 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2759729406157074
+AUC: 0.6823141623096158
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-8 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2759729406157074
+AUC: 0.6941350306887929
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-7 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2759729406157074
+AUC: 0.6823141623096158
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-9 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2759729406157074
+AUC: 0.6839054330529666
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-8 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2759729406157074
+AUC: 0.6775403500795636
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-9 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2759729406157074
+AUC: 0.7060695612639236
+Acc: 65.44117647058823
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.01 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.27402345595708444
+AUC: 0.6864060013639464
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-8 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.27402345595708444
+AUC: 0.6834507842691521
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-8 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.27402345595708444
+AUC: 0.703228006365083
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-6 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2736386830615729
+AUC: 0.6673107524437372
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-7 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2684973173154358
+AUC: 0.6910661513980451
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-4 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2684973173154358
+AUC: 0.6815185269379405
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.001 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2684973173154358
+AUC: 0.6889065696749261
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-5 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2684973173154358
+AUC: 0.6878836099113435
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-8 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2684973173154358
+AUC: 0.6786769720390998
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-5 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2675566699764791
+AUC: 0.6675380768356445
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-6 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2675566699764791
+AUC: 0.6683337122073199
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-9 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2675566699764791
+AUC: 0.6698113207547169
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-6 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2675566699764791
+AUC: 0.6737894976130939
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-5 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2675566699764791
+AUC: 0.6770857012957491
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-5 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2675566699764791
+AUC: 0.6673107524437372
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-8 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2675566699764791
+AUC: 0.6950443282564219
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-7 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2675566699764791
+AUC: 0.6671970902477836
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-6 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2675566699764791
+AUC: 0.664923846328711
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-7 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2675566699764791
+AUC: 0.668902023187088
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-6 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2675566699764791
+AUC: 0.6859513525801318
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-8 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2675566699764791
+AUC: 0.6691293475789952
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-6 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2675566699764791
+AUC: 0.6702659695385315
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-5 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2631631585014131
+AUC: 0.681063878154126
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-6 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2631631585014131
+AUC: 0.6911798135939986
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-9 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2631631585014131
+AUC: 0.718117754035008
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.1 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2631631585014131
+AUC: 0.6881109343032508
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-8 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2631631585014131
+AUC: 0.6833371220731984
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-7 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2631631585014131
+AUC: 0.6824278245055695
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-8 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2631631585014131
+AUC: 0.7039099795408047
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-6 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2616786010520945
+AUC: 0.6964082746078655
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-9 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2616786010520945
+AUC: 0.7047056149124801
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-6 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2616786010520945
+AUC: 0.702318708797454
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-6 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2616786010520945
+AUC: 0.6815185269379405
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-9 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2580131848147306
+AUC: 0.6845874062286883
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-6 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2580131848147306
+AUC: 0.6799272561945897
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-8 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2580131848147306
+AUC: 0.682541486701523
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-5 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2580131848147306
+AUC: 0.6853830416003637
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-6 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2559928437291239
+AUC: 0.6834507842691521
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-7 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2559928437291239
+AUC: 0.6744714707888156
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-9 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2559928437291239
+AUC: 0.6786769720390998
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-7 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2559928437291239
+AUC: 0.6717435780859287
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-4 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2559928437291239
+AUC: 0.6709479427142533
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-9 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2559928437291239
+AUC: 0.6674244146396908
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-8 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2554531973879744
+AUC: 0.6898158672425552
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-7 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.25304091313568755
+AUC: 0.6633325755853603
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-5 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2504890809151457
+AUC: 0.6770857012957491
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-8 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2504890809151457
+AUC: 0.6796999318026824
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-7 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2504890809151457
+AUC: 0.6851557172084565
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-7 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2504890809151457
+AUC: 0.670720618322346
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-9 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2504890809151457
+AUC: 0.6894748806546942
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.01 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2504890809151457
+AUC: 0.6736758354171403
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-6 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2494350941759242
+AUC: 0.6759490793362127
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-5 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24824117426406955
+AUC: 0.6519663559899977
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-5 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24515822803464318
+AUC: 0.7269834053193908
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.1 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24515822803464318
+AUC: 0.7149352125483064
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.1 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24515822803464318
+AUC: 0.7269834053193908
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.1 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24515822803464318
+AUC: 0.7149352125483064
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.1 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24515822803464318
+AUC: 0.7149352125483064
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.1 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24515822803464318
+AUC: 0.7269834053193908
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.1 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24515822803464318
+AUC: 0.6621959536258241
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-9 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24515822803464318
+AUC: 0.6714025914980677
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-6 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24515822803464318
+AUC: 0.7251648101841327
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.1 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24515822803464318
+AUC: 0.7269834053193908
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.1 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24515822803464318
+AUC: 0.6715162536940213
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-7 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24515822803464318
+AUC: 0.7149352125483064
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.1 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24515822803464318
+AUC: 0.7269834053193908
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.1 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24515822803464318
+AUC: 0.696521936803819
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-5 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24515822803464318
+AUC: 0.7151625369402137
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.1 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24515822803464318
+AUC: 0.7269834053193908
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.1 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24515822803464318
+AUC: 0.7147078881563992
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.1 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24361014886750812
+AUC: 0.7231188906569674
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.01 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24361014886750812
+AUC: 0.6903841782223232
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.001 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24360126003042037
+AUC: 0.6709479427142533
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-4 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24360126003042037
+AUC: 0.6698113207547169
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-9 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.24360126003042037
+AUC: 0.706865196635599
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-6 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.23999237521337902
+AUC: 0.6997044782905206
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.01 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.23999237521337902
+AUC: 0.6850420550125028
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-5 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.23999237521337902
+AUC: 0.6910661513980451
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-5 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.23914544220645156
+AUC: 0.7288020004546488
+Acc: 64.70588235294117
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-4 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2379403004494113
+AUC: 0.720845646737895
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.1 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2379403004494113
+AUC: 0.7206183223459878
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.1 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2379403004494113
+AUC: 0.7203909979540805
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.1 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2379403004494113
+AUC: 0.6812912025460331
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-4 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2379403004494113
+AUC: 0.6809502159581723
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-6 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2379403004494113
+AUC: 0.6757217549443055
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-8 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2379403004494113
+AUC: 0.720845646737895
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.1 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2379403004494113
+AUC: 0.7201636735621733
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.1 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2379403004494113
+AUC: 0.720845646737895
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.1 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.23728403510393234
+AUC: 0.685610365992271
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-9 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.23498475465484683
+AUC: 0.6490111388952035
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.01 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.23498475465484683
+AUC: 0.6456012730165946
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-7 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.23498475465484683
+AUC: 0.6490111388952035
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.01 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.23498475465484683
+AUC: 0.70595589906797
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-5 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.23498475465484683
+AUC: 0.6573084791998182
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-6 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2324419657493168
+AUC: 0.7078881563991817
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.1 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2324419657493168
+AUC: 0.6721982268697432
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.001 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2324419657493168
+AUC: 0.622414185042055
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-4 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2324419657493168
+AUC: 0.6648101841327575
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-4 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2324419657493168
+AUC: 0.6699249829506706
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-4 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2324419657493168
+AUC: 0.6546942486928847
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-6 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2324419657493168
+AUC: 0.7037963173448512
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-5 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.23131316611772174
+AUC: 0.614798817913162
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-4 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.23012973449003293
+AUC: 0.692884746533303
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.01 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.23012973449003293
+AUC: 0.6960672880200045
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.01 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.23012973449003293
+AUC: 0.6406001363946351
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.01 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.23012973449003293
+AUC: 0.6958399636280973
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.001 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2270970675153444
+AUC: 0.6627642646055922
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-5 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2270970675153444
+AUC: 0.6657194817003864
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-8 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2270970675153444
+AUC: 0.7003864514662423
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.1 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2270970675153444
+AUC: 0.7003864514662423
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.1 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2270970675153444
+AUC: 0.6453739486246874
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-4 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2270970675153444
+AUC: 0.6483291657194817
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.001 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2270970675153444
+AUC: 0.7003864514662423
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.1 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2270970675153444
+AUC: 0.6194589679472607
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-4 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2270970675153444
+AUC: 0.700159127074335
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.1 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2270970675153444
+AUC: 0.6737894976130939
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-5 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2270970675153444
+AUC: 0.692884746533303
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-5 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2270970675153444
+AUC: 0.6999318026824278
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.01 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2270970675153444
+AUC: 0.6701523073425779
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.001 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2270970675153444
+AUC: 0.700159127074335
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.1 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2270970675153444
+AUC: 0.6601500340986588
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-7 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.22550683081567305
+AUC: 0.6762900659240737
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-4 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.22550683081567305
+AUC: 0.6286656058195045
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-4 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.22550683081567305
+AUC: 0.6546942486928847
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-4 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.22550683081567305
+AUC: 0.6939077062968857
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-6 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.22542284183146902
+AUC: 0.6662877926801546
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.001 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.22542284183146902
+AUC: 0.6837917708570129
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.001 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.22542284183146902
+AUC: 0.6731075244373721
+Acc: 63.970588235294116
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-4 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.22189741613437214
+AUC: 0.6459422596044555
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-6 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.22189741613437214
+AUC: 0.6654921573084792
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-6 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.22189741613437214
+AUC: 0.657649465787679
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-7 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.22189741613437214
+AUC: 0.6403728120027279
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-4 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.22189741613437214
+AUC: 0.6619686292339167
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-8 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.22189741613437214
+AUC: 0.6516253694021369
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-9 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.22189741613437214
+AUC: 0.6785633098431462
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.01 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.22189741613437214
+AUC: 0.6790179586269607
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.01 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2168357791943826
+AUC: 0.6935667197090247
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.01 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2168357791943826
+AUC: 0.6933393953171175
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.01 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2168357791943826
+AUC: 0.6426460559218005
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.01 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2168357791943826
+AUC: 0.6944760172766538
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.01 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2168357791943826
+AUC: 0.650375085246647
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-8 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2168357791943826
+AUC: 0.681063878154126
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.001 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2168357791943826
+AUC: 0.7002727892702887
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-5 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.2168357791943826
+AUC: 0.6536712889293022
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-4 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.21434351545357896
+AUC: 0.6997044782905206
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.1 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.21434351545357896
+AUC: 0.6918617867697204
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-4 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.21434351545357896
+AUC: 0.6674244146396908
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.001 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.21190586155077978
+AUC: 0.6812912025460331
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.001 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.21190586155077978
+AUC: 0.6733348488292794
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-5 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.21190586155077978
+AUC: 0.6975448965674017
+Acc: 63.23529411764706
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-4 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.208966744957657
+AUC: 0.6303705387588088
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-4 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.208966744957657
+AUC: 0.6344623778131393
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.01 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.208966744957657
+AUC: 0.653102977949534
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-5 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.20371476773404532
+AUC: 0.6617413048420095
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-5 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.20371476773404532
+AUC: 0.6551488974766992
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-4 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.20371476773404532
+AUC: 0.6615139804501023
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-9 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.20371476773404532
+AUC: 0.6699249829506706
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-4 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.20371476773404532
+AUC: 0.6183223459877245
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-8 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.20371476773404532
+AUC: 0.6128665605819504
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-8 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.20172077299722052
+AUC: 0.6541259377131167
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-6 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.20172077299722052
+AUC: 0.6842464196408274
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-4 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19857969024543165
+AUC: 0.6410547851784496
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-7 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19857969024543165
+AUC: 0.6223005228461014
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-8 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19857969024543165
+AUC: 0.6408274607865424
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-7 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19857969024543165
+AUC: 0.6601500340986588
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-7 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19857969024543165
+AUC: 0.6681063878154125
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.001 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19857969024543165
+AUC: 0.6410547851784496
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-7 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19618095021595816
+AUC: 0.6831097976812912
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.1 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19618095021595816
+AUC: 0.645828597408502
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-6 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19618095021595816
+AUC: 0.6967492611957263
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-5 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19618095021595816
+AUC: 0.6931120709252103
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-5 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19618095021595816
+AUC: 0.6851557172084565
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.1 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19618095021595816
+AUC: 0.6280972948397363
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-6 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19618095021595816
+AUC: 0.6740168220050011
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-7 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19618095021595816
+AUC: 0.6352580131848148
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-6 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19618095021595816
+AUC: 0.675267106160491
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-4 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19618095021595816
+AUC: 0.671629915889975
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-5 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19618095021595816
+AUC: 0.6840190952489202
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.1 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19618095021595816
+AUC: 0.6828824732893839
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.1 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19618095021595816
+AUC: 0.6831097976812912
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.1 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19618095021595816
+AUC: 0.639122527847238
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-6 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19355433196756072
+AUC: 0.613321209365765
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-8 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19355433196756072
+AUC: 0.6141168447374403
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-9 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19355433196756072
+AUC: 0.6498067742668788
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-9 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19355433196756072
+AUC: 0.621504887474426
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.001 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19355433196756072
+AUC: 0.6515117072061832
+Acc: 62.5
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-4 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19075391913305675
+AUC: 0.6740168220050011
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-4 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19075391913305675
+AUC: 0.6524210047738123
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-4 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19075391913305675
+AUC: 0.6560581950443283
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-4 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19075391913305675
+AUC: 0.6456012730165946
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-5 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19075391913305675
+AUC: 0.6321891338940668
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-4 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19075391913305675
+AUC: 0.6660604682882473
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-5 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19075391913305675
+AUC: 0.6401454876108207
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.001 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.19075391913305675
+AUC: 0.6340077290293249
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.01 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18921837047546977
+AUC: 0.6687883609911344
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.1 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18921837047546977
+AUC: 0.6858376903841782
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.01 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18921837047546977
+AUC: 0.6724255512616504
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-4 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18543038412469567
+AUC: 0.6401454876108207
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-7 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18543038412469567
+AUC: 0.6992498295067061
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-5 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18543038412469567
+AUC: 0.6671970902477836
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-6 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18543038412469567
+AUC: 0.6632189133894066
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-7 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18543038412469567
+AUC: 0.6667424414639691
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-6 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18543038412469567
+AUC: 0.6699249829506706
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-8 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18543038412469567
+AUC: 0.6070697885883155
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-9 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18543038412469567
+AUC: 0.6641282109570357
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-7 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18543038412469567
+AUC: 0.5989997726756081
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-9 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18543038412469567
+AUC: 0.6636735621732212
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-8 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18543038412469567
+AUC: 0.6636735621732212
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-7 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18543038412469567
+AUC: 0.6675380768356445
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-7 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18543038412469567
+AUC: 0.6279836326437827
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-6 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18543038412469567
+AUC: 0.6742441463969084
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-4 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18543038412469567
+AUC: 0.6560581950443283
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-9 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18543038412469567
+AUC: 0.6803819049784042
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.001 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18543038412469567
+AUC: 0.6631052511934531
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-6 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18352880287251477
+AUC: 0.661286656058195
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.1 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18352880287251477
+AUC: 0.6617413048420095
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.1 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18352880287251477
+AUC: 0.6617413048420095
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.1 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18352880287251477
+AUC: 0.6646965219368038
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.1 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18352880287251477
+AUC: 0.6592407365310298
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.01 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18352880287251477
+AUC: 0.6598090475107979
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-7 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18352880287251477
+AUC: 0.6457149352125483
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-6 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18352880287251477
+AUC: 0.6774266878836099
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.1 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18352880287251477
+AUC: 0.6617413048420095
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.1 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18352880287251477
+AUC: 0.6934530575130712
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-5 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18352880287251477
+AUC: 0.6617413048420095
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.1 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18275686817709225
+AUC: 0.645828597408502
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.01 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18020157423405145
+AUC: 0.6096840190952489
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-9 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18020157423405145
+AUC: 0.6878836099113435
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-4 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18020157423405145
+AUC: 0.6628779268015458
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.01 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18020157423405145
+AUC: 0.6486701523073426
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-5 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.18020157423405145
+AUC: 0.6457149352125483
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-7 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.177941114701935
+AUC: 0.6367356217322119
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-8 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.177941114701935
+AUC: 0.6604910206865197
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-8 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.177941114701935
+AUC: 0.6253694021368493
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-4 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.177941114701935
+AUC: 0.6754944305523982
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-7 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.177941114701935
+AUC: 0.6217322118663332
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-4 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.177941114701935
+AUC: 0.6420777449420323
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-6 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.177941114701935
+AUC: 0.6399181632189134
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-4 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.177941114701935
+AUC: 0.6894748806546942
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.1 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.177941114701935
+AUC: 0.7010684246419641
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-5 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.177941114701935
+AUC: 0.5978631507160719
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.001 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.177941114701935
+AUC: 0.6620822914298704
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-6 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.177941114701935
+AUC: 0.6499204364628325
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-8 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17682626671736232
+AUC: 0.6651511707206184
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-4 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17505917592058473
+AUC: 0.681973175721755
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-4 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17505917592058473
+AUC: 0.5987724482837008
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-9 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17505917592058473
+AUC: 0.7010684246419641
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-5 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17505917592058473
+AUC: 0.6771993634917026
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-4 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17505917592058473
+AUC: 0.620595589906797
+Acc: 61.76470588235294
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-8 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17244478081324377
+AUC: 0.6296885655830871
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.01 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17244478081324377
+AUC: 0.6561718572402819
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-9 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17244478081324377
+AUC: 0.6127528983859968
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-9 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17244478081324377
+AUC: 0.6307115253466697
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-9 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17244478081324377
+AUC: 0.6355989997726756
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-7 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17244478081324377
+AUC: 0.6591270743350761
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-9 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17244478081324377
+AUC: 0.6607183450784269
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-9 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17244478081324377
+AUC: 0.632757444873835
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-8 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17244478081324377
+AUC: 0.6469652193680382
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.001 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17244478081324377
+AUC: 0.6577631279836327
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-8 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17244478081324377
+AUC: 0.6197999545351216
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-8 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17244478081324377
+AUC: 0.6485564901113889
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-5 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17244478081324377
+AUC: 0.6653784951125256
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-5 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17244478081324377
+AUC: 0.6740168220050011
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-5 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17244478081324377
+AUC: 0.6526483291657195
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-8 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.17244478081324377
+AUC: 0.6326437826778814
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-7 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1709995802451242
+AUC: 0.6665151170720618
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.1 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1709995802451242
+AUC: 0.6651511707206184
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.1 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1709995802451242
+AUC: 0.6651511707206184
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.1 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1709995802451242
+AUC: 0.6626506024096386
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.1 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1709995802451242
+AUC: 0.6628779268015458
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.1 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16702964600083037
+AUC: 0.615139804501023
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.001 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16702964600083037
+AUC: 0.6902705160263697
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-5 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16702964600083037
+AUC: 0.6591270743350761
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-9 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16702964600083037
+AUC: 0.6587860877472153
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-4 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16702964600083037
+AUC: 0.6715162536940213
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-4 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16702964600083037
+AUC: 0.6854967037963173
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-5 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16702964600083037
+AUC: 0.646737894976131
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-8 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16702964600083037
+AUC: 0.6740168220050011
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.01 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16702964600083037
+AUC: 0.5908160945669471
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-4 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16702964600083037
+AUC: 0.6285519436235508
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-8 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16702964600083037
+AUC: 0.6658331438963401
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-4 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16702964600083037
+AUC: 0.6676517390315981
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-6 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16526483291657196
+AUC: 0.6583314389634007
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-4 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16526483291657196
+AUC: 0.5921800409183905
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.001 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16526483291657196
+AUC: 0.6596953853148443
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-9 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16526483291657196
+AUC: 0.6365082973403046
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-5 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16526483291657196
+AUC: 0.6631052511934531
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-5 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16168582210365243
+AUC: 0.6396908388270062
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-6 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16168582210365243
+AUC: 0.6485564901113889
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-6 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.16168582210365243
+AUC: 0.6535576267333485
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.001 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15961042213174137
+AUC: 0.6015003409865879
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.001 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15961042213174137
+AUC: 0.6465105705842237
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-8 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15961042213174137
+AUC: 0.6478745169356672
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-8 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15961042213174137
+AUC: 0.6566265060240963
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-9 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15961042213174137
+AUC: 0.6724255512616504
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-4 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15961042213174137
+AUC: 0.6353716753807683
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-9 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15961042213174137
+AUC: 0.6719709024778359
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-4 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15961042213174137
+AUC: 0.6551488974766992
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-4 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1564035846873816
+AUC: 0.6506024096385542
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-6 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1564035846873816
+AUC: 0.6294612411911799
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-9 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15402498905500872
+AUC: 0.6544669243009775
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-7 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15402498905500872
+AUC: 0.6410547851784496
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-9 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15402498905500872
+AUC: 0.6536712889293022
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.001 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15402498905500872
+AUC: 0.6893612184587407
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-5 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15402498905500872
+AUC: 0.660377358490566
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-6 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15402498905500872
+AUC: 0.6595817231188906
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-5 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15402498905500872
+AUC: 0.6203682655148898
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-9 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15402498905500872
+AUC: 0.654012275517163
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-8 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15402498905500872
+AUC: 0.6323027960900205
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-8 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.15402498905500872
+AUC: 0.6717435780859287
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.01 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1511732662227785
+AUC: 0.6608320072743805
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-8 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1511732662227785
+AUC: 0.6610593316662878
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-9 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14849728691732314
+AUC: 0.6885655830870653
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-5 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14849728691732314
+AUC: 0.6284382814275972
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-8 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14849728691732314
+AUC: 0.6234371448056376
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-9 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14849728691732314
+AUC: 0.6941350306887929
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-5 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14849728691732314
+AUC: 0.628779268015458
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-7 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14849728691732314
+AUC: 0.6207092521027506
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-7 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14849728691732314
+AUC: 0.6715162536940213
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-6 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14849728691732314
+AUC: 0.631848147306206
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-7 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14849728691732314
+AUC: 0.6380995680836554
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.001 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14849728691732314
+AUC: 0.6226415094339622
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-7 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14849728691732314
+AUC: 0.6371902705160264
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-4 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14849728691732314
+AUC: 0.6424187315298931
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-6 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14849728691732314
+AUC: 0.6860650147760855
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-4 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.146915484446213
+AUC: 0.6596953853148443
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.1 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.146915484446213
+AUC: 0.6442373266651512
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-7 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.146915484446213
+AUC: 0.6571948170038645
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-4 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.146915484446213
+AUC: 0.5980904751079791
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-4 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.146915484446213
+AUC: 0.6435553534894294
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-6 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.146915484446213
+AUC: 0.6343487156171858
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-6 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.146915484446213
+AUC: 0.6510570584223687
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-5 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.146915484446213
+AUC: 0.6590134121391226
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-4 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.146915484446213
+AUC: 0.6470788815639918
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-8 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.146915484446213
+AUC: 0.6474198681518527
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-9 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.146915484446213
+AUC: 0.6333257558536031
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-6 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.146915484446213
+AUC: 0.6581041145714935
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-4 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14626924985133782
+AUC: 0.6385542168674698
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-4 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14598514219366587
+AUC: 0.6709479427142533
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-7 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14301604277765131
+AUC: 0.6344623778131393
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.01 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14117479389244222
+AUC: 0.6441236644691976
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-9 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14117479389244222
+AUC: 0.6636735621732212
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-7 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14117479389244222
+AUC: 0.6413957717663106
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-9 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14117479389244222
+AUC: 0.6510570584223687
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-8 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14117479389244222
+AUC: 0.6454876108206411
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-7 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14117479389244222
+AUC: 0.6329847692657422
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-9 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14117479389244222
+AUC: 0.6658331438963401
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-4 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14117479389244222
+AUC: 0.650375085246647
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-5 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14117479389244222
+AUC: 0.5924073653102978
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.001 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14117479389244222
+AUC: 0.6719709024778359
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-7 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14027838749302793
+AUC: 0.6667424414639691
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.1 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14027838749302793
+AUC: 0.6758354171402592
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.1 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14027838749302793
+AUC: 0.6681063878154125
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.1 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.14021686131460354
+AUC: 0.5626278699704478
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.001 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.13756980766620877
+AUC: 0.6348033644010003
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-7 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.13756980766620877
+AUC: 0.6417367583541714
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-8 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.13756980766620877
+AUC: 0.6253694021368493
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-4 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.13547960175622906
+AUC: 0.6355989997726756
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-9 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.13547960175622906
+AUC: 0.6735621732211866
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-4 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.13547960175622906
+AUC: 0.6696976585587634
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.01 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.13547960175622906
+AUC: 0.657649465787679
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-8 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.13547960175622906
+AUC: 0.6019549897704024
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.001 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.13434871561718573
+AUC: 0.6140031825414867
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.001 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.13434871561718573
+AUC: 0.6667424414639691
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.1 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.13434871561718573
+AUC: 0.6404864741986815
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-6 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.13434871561718573
+AUC: 0.6710616049102068
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.1 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.13434871561718573
+AUC: 0.5792225505796772
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.001 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.13434871561718573
+AUC: 0.6283246192316435
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.001 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1321467888636624
+AUC: 0.6841327574448738
+Acc: 60.294117647058826
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-6 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1298173122397441
+AUC: 0.6504887474426005
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-4 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1298173122397441
+AUC: 0.6510570584223687
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-9 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1298173122397441
+AUC: 0.6862923391679927
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-4 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1298173122397441
+AUC: 0.6235508070015913
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.001 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1298173122397441
+AUC: 0.6312798363264378
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-9 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1298173122397441
+AUC: 0.684701068424642
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-5 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1298173122397441
+AUC: 0.6310525119345306
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-4 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.12846692513042599
+AUC: 0.65674016822005
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-4 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.12846692513042599
+AUC: 0.6824278245055695
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.1 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.12846692513042599
+AUC: 0.5912707433507616
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-9 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.12817263552382163
+AUC: 0.5544441918617867
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.001 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.12794766003579386
+AUC: 0.6290065924073653
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.01 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.12794766003579386
+AUC: 0.6121845874062287
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.01 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.12417496723664843
+AUC: 0.6499204364628325
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-4 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1226195939853218
+AUC: 0.6442373266651512
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-5 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1226195939853218
+AUC: 0.6578767901795862
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.01 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1226195939853218
+AUC: 0.6051375312571039
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-6 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1226195939853218
+AUC: 0.6617413048420095
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-7 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1226195939853218
+AUC: 0.6431007047056149
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-8 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1226195939853218
+AUC: 0.6835644464651057
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-5 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1226195939853218
+AUC: 0.6820868379177085
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-5 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1226195939853218
+AUC: 0.6498067742668788
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-7 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1226195939853218
+AUC: 0.6748124573766765
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-5 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.12189937771038635
+AUC: 0.5930893384860195
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.001 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.12189937771038635
+AUC: 0.6692430097749489
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.1 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.12189937771038635
+AUC: 0.6335530802455104
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.01 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.12189937771038635
+AUC: 0.6692430097749489
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.1 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.12189937771038635
+AUC: 0.6692430097749489
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.1 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1167929996005948
+AUC: 0.6307115253466697
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-8 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1167929996005948
+AUC: 0.6482155035235281
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-7 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1167929996005948
+AUC: 0.626051375312571
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-9 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1167929996005948
+AUC: 0.6213912252784723
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-8 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1167929996005948
+AUC: 0.6918617867697204
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-5 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1167929996005948
+AUC: 0.6842464196408274
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-4 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.115889854190491
+AUC: 0.6758354171402592
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-4 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.115889854190491
+AUC: 0.664923846328711
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.1 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.115889854190491
+AUC: 0.6579904523755399
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-6 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.115889854190491
+AUC: 0.6210502386906115
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.01 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.115889854190491
+AUC: 0.58808820186406
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.001 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.115889854190491
+AUC: 0.664923846328711
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.1 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.115889854190491
+AUC: 0.6113889520345533
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-8 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.115889854190491
+AUC: 0.6651511707206184
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.1 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.115889854190491
+AUC: 0.6112752898385997
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-9 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.11571223298531334
+AUC: 0.6340077290293249
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.01 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.11289517662976827
+AUC: 0.6874289611275289
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-6 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.11289517662976827
+AUC: 0.6594680609229371
+Acc: 59.55882352941177
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-5 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.11097290963471791
+AUC: 0.6362809729483974
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-9 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.11097290963471791
+AUC: 0.6194589679472607
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.001 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.11097290963471791
+AUC: 0.6551488974766992
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-8 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.11097290963471791
+AUC: 0.6265060240963856
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-7 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.11097290963471791
+AUC: 0.6644691975448965
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.001 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.10990480697164069
+AUC: 0.5912707433507616
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.001 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.10990480697164069
+AUC: 0.6217322118663332
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.001 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.10990480697164069
+AUC: 0.618436008183678
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-5 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.10990480697164069
+AUC: 0.5988861104796545
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-8 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.10990480697164069
+AUC: 0.6255967265287565
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.01 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.10990480697164069
+AUC: 0.6021823141623096
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.001 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.10955719474093163
+AUC: 0.5958172311889066
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.001 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.10514434173448539
+AUC: 0.6403728120027279
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-4 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.10392955751162777
+AUC: 0.6548079108888384
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-6 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.10392955751162777
+AUC: 0.6028642873380313
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.01 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.10392955751162777
+AUC: 0.6633325755853603
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-6 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.10392955751162777
+AUC: 0.5905887701750397
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-7 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.10392955751162777
+AUC: 0.6479881791316209
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-6 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.10356277916186973
+AUC: 0.6271879972721073
+Acc: 56.61764705882353
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.01 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.10356277916186973
+AUC: 0.5496703796317345
+Acc: 56.61764705882353
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.001 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1034325983177995
+AUC: 0.6651511707206184
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.1 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1034325983177995
+AUC: 0.6044555580813822
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.01 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1034325983177995
+AUC: 0.5896794726074108
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.001 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1034325983177995
+AUC: 0.6078654239599909
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-7 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1034325983177995
+AUC: 0.6692430097749489
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.1 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.1034325983177995
+AUC: 0.6653784951125256
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.1 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09794880237583581
+AUC: 0.5989997726756081
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-4 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09732342812911059
+AUC: 0.5730847919981814
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.001 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09732342812911059
+AUC: 0.6299158899749944
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.01 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09732342812911059
+AUC: 0.6090020459195271
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.01 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09731230481595589
+AUC: 0.6101386678790635
+Acc: 56.61764705882353
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.01 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09731230481595589
+AUC: 0.6724255512616504
+Acc: 56.61764705882353
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.1 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09339633280348285
+AUC: 0.6652648329165719
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-4 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09339633280348285
+AUC: 0.6536712889293022
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-8 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09339633280348285
+AUC: 0.6578767901795862
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-9 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09339633280348285
+AUC: 0.6651511707206184
+Acc: 58.8235294117647
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-7 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09194634978591525
+AUC: 0.59718117754035
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.001 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09194634978591525
+AUC: 0.6121845874062287
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.001 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09194634978591525
+AUC: 0.6444646510570584
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-4 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09194634978591525
+AUC: 0.6019549897704024
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-5 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09149028039710004
+AUC: 0.6312798363264378
+Acc: 55.88235294117647
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.01 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09121419891563486
+AUC: 0.5891111616276427
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-9 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09121419891563486
+AUC: 0.6160491020686519
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.01 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09108466512932215
+AUC: 0.6285519436235508
+Acc: 56.61764705882353
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-4 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.09108466512932215
+AUC: 0.6130938849738578
+Acc: 56.61764705882353
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.01 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.08592086074119877
+AUC: 0.5924073653102978
+Acc: 55.14705882352941
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.001 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.08590480842500746
+AUC: 0.620595589906797
+Acc: 58.088235294117645
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.001 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.08515521611928885
+AUC: 0.6071834507842692
+Acc: 55.88235294117647
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.001 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.08508871228386647
+AUC: 0.5994544214594226
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-7 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.08508871228386647
+AUC: 0.6568538304160036
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-6 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.08508871228386647
+AUC: 0.6037735849056604
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.01 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.084864223934769
+AUC: 0.5493293930438736
+Acc: 56.61764705882353
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-4 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.084864223934769
+AUC: 0.5960445555808138
+Acc: 56.61764705882353
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.001 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.07892977649178451
+AUC: 0.6180950215958172
+Acc: 57.35294117647059
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.01 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.07883600198883534
+AUC: 0.5883155262559673
+Acc: 55.88235294117647
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.01 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.07863482005083916
+AUC: 0.6026369629461241
+Acc: 56.61764705882353
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.01 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.07863482005083916
+AUC: 0.6642418731529893
+Acc: 56.61764705882353
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-5 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.07251648101841328
+AUC: 0.5953625824050921
+Acc: 55.88235294117647
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.01 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.07237951326702649
+AUC: 0.5974085019322574
+Acc: 56.61764705882353
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.01 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.07237951326702649
+AUC: 0.5619458967947261
+Acc: 56.61764705882353
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-8 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.07237951326702649
+AUC: 0.5858149579449875
+Acc: 56.61764705882353
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.001 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.07237951326702649
+AUC: 0.6286656058195045
+Acc: 56.61764705882353
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-5 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.0661799311277952
+AUC: 0.6010456922027734
+Acc: 55.88235294117647
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.01 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.0661799311277952
+AUC: 0.6257103887247102
+Acc: 55.88235294117647
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-5 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.0661799311277952
+AUC: 0.6082064105478517
+Acc: 55.88235294117647
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-6 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.0661799311277952
+AUC: 0.552852921118436
+Acc: 55.88235294117647
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.001 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.06608029251192751
+AUC: 0.61786769720391
+Acc: 56.61764705882353
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.001 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.060269952548257934
+AUC: 0.5885428506478745
+Acc: 55.14705882352941
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.001 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.060269952548257934
+AUC: 0.6235508070015913
+Acc: 55.14705882352941
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.01 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.05980880384594792
+AUC: 0.6410547851784496
+Acc: 55.88235294117647
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-4 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.05980880384594792
+AUC: 0.5944532848374631
+Acc: 55.88235294117647
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.01 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.05980880384594792
+AUC: 0.5876335530802456
+Acc: 55.88235294117647
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.001 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.05980880384594792
+AUC: 0.6226415094339622
+Acc: 55.88235294117647
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.01 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.05980880384594792
+AUC: 0.5905887701750397
+Acc: 55.88235294117647
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.01 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.05971773233518207
+AUC: 0.5849056603773585
+Acc: 56.61764705882353
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.01 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.05338442496713814
+AUC: 0.620595589906797
+Acc: 55.88235294117647
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.01 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.05338442496713814
+AUC: 0.5874062286883382
+Acc: 55.88235294117647
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-6 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.048114809236739046
+AUC: 0.5244373721300295
+Acc: 54.411764705882355
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.001 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.04736483313003762
+AUC: 0.5692202773357581
+Acc: 55.14705882352941
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.001 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.04736483313003762
+AUC: 0.5749033871334395
+Acc: 55.14705882352941
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.001 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.04736483313003762
+AUC: 0.5974085019322574
+Acc: 55.14705882352941
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.01 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.04671524550197308
+AUC: 0.6662877926801546
+Acc: 56.61764705882353
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.001 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.0408294690224252
+AUC: 0.5637644919299841
+Acc: 55.14705882352941
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.01 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.0408294690224252
+AUC: 0.6269606728802001
+Acc: 55.14705882352941
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.01 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.0408294690224252
+AUC: 0.5735394407819959
+Acc: 55.14705882352941
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.01 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.033580262618005625
+AUC: 0.6003637190270517
+Acc: 55.88235294117647
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.001 -O 0.01 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.02945523996719373
+AUC: 0.547397135712662
+Acc: 53.6764705882353
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.001 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.027489114884448888
+AUC: 0.5662650602409639
+Acc: 55.14705882352941
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.01 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.02404118238723986
+AUC: 0.5762673334848829
+Acc: 52.94117647058823
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.001 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.022812963423325002
+AUC: 0.5717208456467379
+Acc: 53.6764705882353
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.01 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.022812963423325002
+AUC: 0.5714935212548307
+Acc: 53.6764705882353
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.01 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.022812963423325002
+AUC: 0.552852921118436
+Acc: 53.6764705882353
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.001 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.022812963423325002
+AUC: 0.5369402136849284
+Acc: 53.6764705882353
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.001 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.02168013765040981
+AUC: 0.6196862923391679
+Acc: 54.411764705882355
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.01 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.02168013765040981
+AUC: 0.5585360309161173
+Acc: 54.411764705882355
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.01 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.02168013765040981
+AUC: 0.5569447601727665
+Acc: 54.411764705882355
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.01 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.017393616484642754
+AUC: 0.5655830870652421
+Acc: 52.94117647058823
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.001 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.01210474042151724
+AUC: 0.5719481700386452
+Acc: 52.205882352941174
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.01 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.009279424777823909
+AUC: 0.5642191407137986
+Acc: 53.6764705882353
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.01 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.009279424777823909
+AUC: 0.5814957944987497
+Acc: 53.6764705882353
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.001 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.0038929371251644235
+AUC: 0.5696749261195726
+Acc: 52.94117647058823
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.01 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.0038929371251644235
+AUC: 0.5621732211866334
+Acc: 52.94117647058823
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.001 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.0038929371251644235
+AUC: 0.5396681063878154
+Acc: 52.94117647058823
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.001 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: 0.0023432727841109047
+AUC: 0.6074107751761764
+Acc: 53.6764705882353
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.001 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: -0.0030019862934259575
+AUC: 0.5824050920663787
+Acc: 52.94117647058823
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.01 -O 0.001 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: -0.008212666832397
+AUC: 0.5696749261195726
+Acc: 52.205882352941174
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.01 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: -0.01332757626745354
+AUC: 0.5608092748351898
+Acc: 51.470588235294116
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.001 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: -0.030198503309556247
+AUC: 0.5373948624687429
+Acc: 50.0
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.001 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: -0.034407381363112895
+AUC: 0.5414867015230734
+Acc: 51.470588235294116
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.001 -O 1.0E-4 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: -0.034407381363112895
+AUC: 0.5683109797681292
+Acc: 51.470588235294116
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.01 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5960445555808138
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.1 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.48079108888383726
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-4 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.6419640827460786
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.1 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5792225505796772
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-9 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5712661968629233
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.001 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5712661968629233
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-9 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5389861332120937
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-7 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5792225505796772
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-6 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5726301432143669
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.1 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.42577858604228236
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-8 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.42577858604228236
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.001 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5603546260513753
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-8 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.6410547851784496
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-9 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.48079108888383726
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.001 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5603546260513753
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.01 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5955899067969993
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-7 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5955899067969993
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-8 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.42577858604228236
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-6 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5712661968629233
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-5 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.545578540577404
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.01 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.6410547851784496
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-8 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5389861332120937
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-9 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5712661968629233
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-6 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5712661968629233
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-8 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.42577858604228236
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-4 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.42577858604228236
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-7 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5955899067969993
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-6 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5389861332120937
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.001 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.6410547851784496
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-6 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5712661968629233
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 0.01 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.6410547851784496
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-7 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.48079108888383726
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-5 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5955899067969993
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.001 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.42600591043418956
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.01 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5792225505796772
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-5 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5389861332120937
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-5 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5373948624687429
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.1 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5792225505796772
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.001 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5453512161854968
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-7 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.6410547851784496
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-5 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5389861332120937
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-8 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5792225505796772
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-7 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.48056376449193
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.01 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.48079108888383726
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-9 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5603546260513753
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-6 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5453512161854968
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-8 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.48079108888383726
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-8 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.4828370084110025
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 7 -R 0.1 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.6410547851784496
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 1.0E-4 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5955899067969993
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-4 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.42577858604228236
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-9 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5603546260513753
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-4 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5955899067969993
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 0.01 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5712661968629233
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-4 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5603546260513753
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-9 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.48079108888383726
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-7 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.48079108888383726
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 7 -R 1.0E-6 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5603546260513753
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.001 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5603546260513753
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-7 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5453512161854968
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-5 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5955899067969993
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-5 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5792225505796772
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-4 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5453512161854968
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-9 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5601273016594681
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 0.1 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5389861332120937
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-4 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.6412821095703569
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.01 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5389861332120937
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 2 -R 1.0E-6 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.57899522618777
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.01 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5453512161854968
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-6 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.6410547851784496
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 4 -R 0.001 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5448965674016822
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.1 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5451238917935894
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 3 -R 0.001 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.57899522618777
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 6 -R 0.1 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5712661968629233
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 9 -R 1.0E-7 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5955899067969993
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 8 -R 1.0E-9 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5603546260513753
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 10 -R 1.0E-5 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5792225505796772
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 6 -R 1.0E-8 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5453512161854968
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 3 -R 1.0E-4 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.4282791543532621
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 5 -R 0.1 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.5383041600363719
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 2 -R 0.01 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+
+MCC: NaN
+AUC: 0.42577858604228236
+Acc: 61.029411764705884
+weka.classifiers.functions.MLPClassifier -N 5 -R 1.0E-5 -O 0.1 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+

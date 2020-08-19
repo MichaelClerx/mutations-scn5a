@@ -1,0 +1,1 @@
+Region name, region start, region end, region size, mutation density in region and mutation density relative to global. Finally, density and relative density in percentages. Relative density is calculated as (density in segment) / total density. Except where (density in segment) == 0, there, relative density is set to 0

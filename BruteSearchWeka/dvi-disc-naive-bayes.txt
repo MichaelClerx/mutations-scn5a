@@ -1,0 +1,15 @@
+MCC: NaN
+AUC: 0.6467650890143292
+Acc: 51.724137931034484
+weka.classifiers.bayes.NaiveBayes 
+
+MCC: NaN
+AUC: 0.6361267911419887
+Acc: 46.89655172413793
+weka.classifiers.bayes.NaiveBayes -K
+
+MCC: NaN
+AUC: 0.5735996526270083
+Acc: 48.96551724137931
+weka.classifiers.bayes.NaiveBayes -D
+

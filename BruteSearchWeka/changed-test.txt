@@ -1,0 +1,63 @@
+Testing weka.classifiers.rules.ZeroR on changed.arff
+  Checking option: 
+  MCC on test data: NaN
+               AUC: 0.5
+              Acc.: 72.8395061728395
+Testing weka.classifiers.trees.RandomForest on changed.arff
+  Checking option: 
+  MCC on test data: 0.12049701178877399
+               AUC: 0.6560092449922958
+              Acc.: 66.66666666666667
+  Checking option: -P 12 -K 5 -I 20 -B
+  MCC on test data: 0.16528980731470377
+               AUC: 0.6382896764252697
+              Acc.: 67.90123456790124
+  Checking option: -P 12 -K 0 -I 20 -B
+  MCC on test data: 0.16528980731470377
+               AUC: 0.6382896764252697
+              Acc.: 67.90123456790124
+  Checking option: -P 16 -K 9 -I 20
+  MCC on test data: 0.1630440278320746
+               AUC: 0.6702619414483821
+              Acc.: 71.60493827160494
+Testing weka.classifiers.bayes.NaiveBayes on changed.arff
+  Checking option: 
+  MCC on test data: 0.22139689836089593
+               AUC: 0.6594761171032357
+              Acc.: 65.4320987654321
+  Checking option: -D
+  MCC on test data: 0.238730798033805
+               AUC: 0.6929892141756548
+              Acc.: 66.66666666666667
+Testing weka.classifiers.functions.MLPClassifier on changed.arff
+  Checking option: -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+  MCC on test data: 0.25650492092984867
+               AUC: 0.6902927580893683
+              Acc.: 67.90123456790124
+  Checking option: -N 10 -R 1.0E-5 -O 1.0E-6 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+  MCC on test data: 0.15083970087368456
+               AUC: 0.6309707241910631
+              Acc.: 65.4320987654321
+  Checking option: -N 8 -R 1.0E-7 -O 1.0E-8 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+  MCC on test data: 0.03655447661767488
+               AUC: 0.5978428351309707
+              Acc.: 62.96296296296296
+Testing weka.classifiers.functions.LibSVM on changed.arff
+  Checking option: -D 3 -seed 1 -W 1 -R 0 -M 40
+  MCC on test data: NaN
+               AUC: 0.5
+              Acc.: 72.8395061728395
+  Checking option: -C 512 -G 4.76837158203125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+  MCC on test data: 0.12049701178877399
+               AUC: 0.5573959938366718
+              Acc.: 66.66666666666667
+Testing weka.classifiers.lazy.IBk on changed.arff
+  Checking option: 
+  MCC on test data: -0.02781318873083958
+               AUC: 0.48651771956856704
+              Acc.: 60.49382716049383
+  Checking option: -K 9 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+  MCC on test data: 0.05787603035624517
+               AUC: 0.5755007704160247
+              Acc.: 67.90123456790124
+Completely done!

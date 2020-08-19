@@ -1,0 +1,7 @@
+key,acc,description
+"a", "AC137587", "Isoform a, Q1077, NM_198056"
+"b", "AY148488", "Isoform b, hH1c, Q1077del, NM_000335"
+"astar", "M77235", "hH1, Q1077, R1027Q"
+"bstar", None, "hH1a, Q1077del, T559A"
+"achen", None, "Chen1996, Q1077, C373Y"
+"bye", None, "Ye2003, Q1077del, H558R, L618I"

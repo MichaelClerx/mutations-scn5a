@@ -1,0 +1,51 @@
+Testing weka.classifiers.rules.ZeroR on late.arff
+  Checking option: 
+  MCC on test data: NaN
+               AUC: 0.5
+              Acc.: 65.0
+Testing weka.classifiers.trees.RandomForest on late.arff
+  Checking option: 
+  MCC on test data: -0.018827751470952857
+               AUC: 0.45467032967032966
+              Acc.: 57.5
+  Checking option: -P 96 -K 0 -I 50
+  MCC on test data: 0.026207120918047958
+               AUC: 0.46016483516483514
+              Acc.: 60.0
+Testing weka.classifiers.bayes.NaiveBayes on late.arff
+  Checking option: 
+  MCC on test data: 0.14169568340005298
+               AUC: 0.5906593406593407
+              Acc.: 57.5
+  Checking option: -D
+  MCC on test data: -0.022875450543583874
+               AUC: 0.45054945054945056
+              Acc.: 55.0
+Testing weka.classifiers.functions.MLPClassifier on late.arff
+  Checking option: -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+  MCC on test data: -0.13533299049019168
+               AUC: 0.489010989010989
+              Acc.: 47.5
+  Checking option: -N 3 -R 1.0E-7 -O 1.0E-5 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+  MCC on test data: 0.01098901098901099
+               AUC: 0.41483516483516486
+              Acc.: 55.0
+Testing weka.classifiers.functions.LibSVM on late.arff
+  Checking option: -D 3 -seed 1 -W 1 -R 0 -M 40
+  MCC on test data: -0.1175019408963036
+               AUC: 0.4807692307692308
+              Acc.: 62.5
+  Checking option: -C 128 -G 4.8828125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+  MCC on test data: -0.009949879346007117
+               AUC: 0.49725274725274726
+              Acc.: 62.5
+Testing weka.classifiers.lazy.IBk on late.arff
+  Checking option: 
+  MCC on test data: 0.04279604925109129
+               AUC: 0.521978021978022
+              Acc.: 55.0
+  Checking option: -K 13 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+  MCC on test data: 0.060522753266880246
+               AUC: 0.5302197802197802
+              Acc.: 60.0
+Completely done!

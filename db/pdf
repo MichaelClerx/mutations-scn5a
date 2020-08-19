@@ -1,0 +1,79 @@
+#!/usr/bin/env python3
+import base
+import os
+import sys
+import fnmatch
+import traceback
+import veusz.embed
+
+output = 'pdf'
+
+# If extra arguments are given, only render the given subdirectories
+subdirs = None
+if len(sys.argv) > 1:
+    subdirs = sys.argv[1:]
+
+e = veusz.embed.Embedded(hidden=True)
+
+ERRORS = 0
+
+def render(ipath, opath):
+    try:
+        print('Loading ' + os.path.basename(ipath))
+        e.Load(ipath)
+        # can call e.SetData(), e.ImportFile(), e.ImportFileCSV(), etc... here
+        print('Storing ' + os.path.basename(opath))
+        e.Export(opath)
+    except Exception:
+        global ERRORS
+        ERRORS += 1        
+        print('-'*40)
+        print('Error handling: ' + ipath)
+        traceback.print_exc()
+        print('-'*40)
+        
+
+def scan(path_in, path_out, ext):
+    """
+    Renders all Veusz files in ``path_in`` and writes them to ``path_out``.
+    The method works recursively and maintains the directory structure from
+    ``path_in`` in ``path_out``.
+    The rendered file type is determined by its extension ``ext``.
+    """
+    # Check extension
+    if ext[0] != '.':
+        ext = '.' + ext
+    # Check output path
+    if not os.path.exists(path_out):
+        print('Creating output directory: ' + path_out)
+        os.makedirs(path_out)
+    elif not os.path.isdir(path_out):
+        raise Exception('Output path already exists, but is not a directory: '
+            + path_out)
+    # Recursively scan directory
+    for filename in os.listdir(path_in):
+        ipath = os.path.join(path_in, filename)
+        if os.path.isdir(ipath):
+            print('Descending into: ' + filename)
+            opath = os.path.join(path_out, filename)
+            scan(ipath, opath, ext)
+        elif filename[-4:] == '.vsz':
+            opath = os.path.join(path_out, filename[:-4] + ext)
+            render(ipath, opath)
+
+if subdirs:
+    ipaths = [os.path.join(base.DIR_FIGURES_IN, x) for x in subdirs]
+    opaths = [os.path.join(base.DIR_FIGURES_OUT, x) for x in subdirs]
+    for d in ipaths:
+        if not os.path.exists(d):
+            raise Exception('Subdir not found: ' + d)
+    for k, ipath in enumerate(ipaths):
+        scan(ipath, opaths[k], output)
+else:
+    scan(base.DIR_FIGURES_IN, base.DIR_FIGURES_OUT, output)
+
+print('-'*40)
+if ERRORS:
+    print('Completed with (' + str(ERRORS) + ') errors!')
+else:
+    print('Completed without errors')

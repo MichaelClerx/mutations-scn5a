@@ -1,0 +1,15 @@
+xaxis,xlabel,zero,act,inact,late,changed,unchanged
+1,N-terminus,3,4,7,0,13,9
+2,Segment 1,1,2,1,0,3,2
+3,Segment 2,1,3,1,0,5,2
+4,Segment 3,0,4,6,1,7,3
+5,Segment 4,2,34,47,9,50,6
+6,Segment 5,3,2,2,1,5,1
+7,Segment 6,0,8,16,7,16,0
+8,Linker 1-2,0,0,0,0,0,0
+9,Linker 2-3,2,0,0,0,2,1
+10,Linker 3-4,0,8,13,2,13,3
+11,Linker 4-5,0,5,8,4,9,3
+12,Linker 5-6,31,8,13,2,46,10
+13,Domain linker,2,24,46,17,63,50
+14,C-terminus,0,12,40,21,45,11

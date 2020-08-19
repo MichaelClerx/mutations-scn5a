@@ -1,0 +1,8 @@
+"pub","va","sema","na","stda","vi","semi","ni","stdi","sequence","key","celltype","celltype_full","beta1","tmin","tmax","notes"
+"Bustamante 1983",0,0,0,0,-75,0,0,0,"None","None","Atrial","Human atrial myocyte","NA",20,22,
+"Feng 1996",-38.6,2.9,6,7.1035202541,-95.1,5.4,6,13.227244611,"None","None","Atrial","Human atrial myocyte","NA",17,17,"fresh"
+"Maltsev 1998",0,0,0,0,0,0,0,0,"None","None","Ventricular","Human ventricular myocyte","NA",22,24,
+"Maltsev 2006",0,0,0,0,0,0,0,0,"None","None","Ventricular","Human ventricular myocyte","NA",23,25,"T=~24"
+"Sakakibara 1992",-38.9,0.9,46,6.1040969848,-95.8,0.9,46,6.1040969848,"None","None","Atrial","Human atrial myocyte","NA",16,18,
+"Sakakibara 1993",-42.8,1.1,60,8.5205633617,-97.33,1.1,60,8.5205633617,"None","None","Ventricular","Human ventricular myocyte","NA",16,18,
+"Schneider 1994",-44.1,2.1024786959,24,10.3,-73.3,1.9187669652,6,4.7,"None","None","Atrial","Human atrial myocyte","NA",24,24,"Used 256ms prepulse value, as suggested by the authors"

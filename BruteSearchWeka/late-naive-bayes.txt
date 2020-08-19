@@ -1,0 +1,15 @@
+MCC: 0.36530922954668055
+AUC: 0.6178774928774928
+Acc: 73.75
+weka.classifiers.bayes.NaiveBayes -D
+
+MCC: 0.19611613513818404
+AUC: 0.6438746438746439
+Acc: 62.5
+weka.classifiers.bayes.NaiveBayes -K
+
+MCC: 0.19506657293224094
+AUC: 0.6396011396011396
+Acc: 60.0
+weka.classifiers.bayes.NaiveBayes 
+

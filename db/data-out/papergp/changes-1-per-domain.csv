@@ -1,0 +1,10 @@
+xaxis,xlabel,zero,act,inact,late,changed,unchanged
+1,N-terminus,3,4,7,0,13,9
+2,Domain 1,16,30,35,10,56,15
+3,Linker D1-D2,2,10,19,6,30,35
+4,Domain 2,10,11,11,0,24,2
+5,Linker D2-D3,0,10,15,7,21,10
+6,Domain 3,11,17,24,6,36,12
+7,Linker D3-D4,0,4,12,4,12,5
+8,Domain 4,3,16,37,10,40,2
+9,C-terminus,0,12,40,21,45,11

@@ -1,0 +1,50 @@
+name, domain, segment, segtype, regtype, side, start, end, length
+"N", "N-terminus", "N-terminus", "Terminus", "N-terminus", "cytoplasmic",                1,  126, 126
+"D1 S1", "Domain 1","Segment 1", "Segment", "Segment 1", "transmembrane",              127,  150,  24
+"D1 L12", "Domain 1","Linker S1-S2", "Linker", "Linker 1-2", "extracellular",          151,  158,   8
+"D1 S2", "Domain 1","Segment 2", "Segment", "Segment 2", "transmembrane",              159,  178,  20
+"D1 L23", "Domain 1","Linker S2-S3", "Linker", "Linker 2-3", "cytoplasmic",            179,  191,  13
+"D1 S3", "Domain 1","Segment 3", "Segment", "Segment 3", "transmembrane",              192,  210,  19
+"D1 L34", "Domain 1","Linker S3-S4", "Linker", "Linker 3-4", "extracellular",          211,  216,   6
+"D1 S4", "Domain 1","Segment 4", "Segment", "Segment 4", "transmembrane",              217,  236,  20
+"D1 L45", "Domain 1","Linker S4-S5", "Linker", "Linker 4-5", "cytoplasmic",            237,  252,  16
+"D1 S5", "Domain 1","Segment 5", "Segment", "Segment 5", "transmembrane",              253,  276,  24
+"D1 L56", "Domain 1","Linker S5-S6", "Linker", "Linker 5-6", "extracellular",          277,  389, 113
+"D1 S6", "Domain 1","Segment 6", "Segment", "Segment 6", "transmembrane",              390,  415,  26
+"L12", "Linker D1-D2", "Linker D1-D2", "Domain linker", "Domain linker", "cytoplasmic",  416,  711, 296
+"D2 S1", "Domain 2","Segment 1", "Segment", "Segment 1", "transmembrane",              712,  736,  25
+"D2 L12", "Domain 2","Linker S1-S2", "Linker", "Linker 1-2", "extracellular",          737,  747,  11
+"D2 S2", "Domain 2","Segment 2", "Segment", "Segment 2", "transmembrane",              748,  771,  24
+"D2 L23", "Domain 2","Linker S2-S3", "Linker", "Linker 2-3", "cytoplasmic",            772,  779,   8
+"D2 S3", "Domain 2","Segment 3", "Segment", "Segment 3", "transmembrane",              780,  799,  20
+"D2 L34", "Domain 2","Linker S3-S4", "Linker", "Linker 3-4", "extracellular",          800,  805,   6
+"D2 S4", "Domain 2","Segment 4", "Segment", "Segment 4", "transmembrane",              806,  825,  20
+"D2 L45", "Domain 2","Linker S4-S5", "Linker", "Linker 4-5", "cytoplasmic",            826,  841,  16
+"D2 S5", "Domain 2","Segment 5", "Segment", "Segment 5", "transmembrane",              842,  862,  21
+"D2 L56", "Domain 2","Linker S5-S6", "Linker", "Linker 5-6", "extracellular",          863,  913,  51
+"D2 S6", "Domain 2","Segment 6", "Segment", "Segment 6", "transmembrane",              914,  939,  26
+"L23", "Linker D2-D3", "Linker D2-D3", "Domain linker", "Domain linker", "cytoplasmic",  940, 1200, 261
+"D3 S1", "Domain 3","Segment 1", "Segment", "Segment 1", "transmembrane",             1201, 1224,  24
+"D3 L12", "Domain 3","Linker S1-S2", "Linker", "Linker 1-2", "extracellular",         1225, 1237,  13
+"D3 S2", "Domain 3","Segment 2", "Segment", "Segment 2", "transmembrane",             1238, 1263,  26
+"D3 L23", "Domain 3","Linker S2-S3", "Linker", "Linker 2-3", "cytoplasmic",           1264, 1269,   6
+"D3 S3", "Domain 3","Segment 3", "Segment", "Segment 3", "transmembrane",             1270, 1291,  22
+"D3 L34", "Domain 3","Linker S3-S4", "Linker", "Linker 3-4", "extracellular",         1292, 1295,   4
+"D3 S4", "Domain 3","Segment 4", "Segment", "Segment 4", "transmembrane",             1296, 1317,  22
+"D3 L45", "Domain 3","Linker S4-S5", "Linker", "Linker 4-5", "cytoplasmic",           1318, 1336,  19
+"D3 S5", "Domain 3","Segment 5", "Segment", "Segment 5", "transmembrane",             1337, 1359,  23
+"D3 L56", "Domain 3","Linker S5-S6", "Linker", "Linker 5-6", "extracellular",         1360, 1443,  84
+"D3 S6", "Domain 3","Segment 6", "Segment", "Segment 6", "transmembrane",             1444, 1470,  27
+"L34", "Linker D3-D4", "Linker D3-D4", "Domain linker", "Domain linker", "cytoplasmic", 1471, 1523,  53
+"D4 S1", "Domain 4","Segment 1", "Segment", "Segment 1", "transmembrane",             1524, 1547,  24
+"D4 L12", "Domain 4","Linker S1-S2", "Linker", "Linker 1-2", "extracellular",         1548, 1558,  11
+"D4 S2", "Domain 4","Segment 2", "Segment", "Segment 2", "transmembrane",             1559, 1582,  24
+"D4 L23", "Domain 4","Linker S2-S3", "Linker", "Linker 2-3", "cytoplasmic",           1583, 1588,   6
+"D4 S3", "Domain 4","Segment 3", "Segment", "Segment 3", "transmembrane",             1589, 1612,  24
+"D4 L34", "Domain 4","Linker S3-S4", "Linker", "Linker 3-4", "extracellular",         1613, 1622,  10
+"D4 S4", "Domain 4","Segment 4", "Segment", "Segment 4", "transmembrane",             1623, 1644,  22
+"D4 L45", "Domain 4","Linker S4-S5", "Linker", "Linker 4-5", "cytoplasmic",           1645, 1659,  15
+"D4 S5", "Domain 4","Segment 5", "Segment", "Segment 5", "transmembrane",             1660, 1682,  23
+"D4 L56", "Domain 4","Linker S5-S6", "Linker", "Linker 5-6", "extracellular",         1683, 1747,  65
+"D4 S6", "Domain 4","Segment 6", "Segment", "Segment 6", "transmembrane",             1748, 1772,  25
+"C", "C-terminus", "C-terminus", "Terminus", "C-terminus", "cytoplasmic",             1773, 2016, 244

@@ -1,0 +1,1 @@
+Scores for positions without mutations (idx, hse, dom)

@@ -1,0 +1,52 @@
+Testing weka.classifiers.rules.ZeroR on inact.arff
+  Checking option: 
+  MCC on test data: NaN
+               AUC: 0.5
+              Acc.: 60.869565217391305
+Testing weka.classifiers.trees.RandomForest on inact.arff
+  Checking option: 
+  MCC on test data: 0.2552394923998475
+               AUC: 0.7111992945326279
+              Acc.: 63.768115942028984
+  Checking option: -P 8 -K 6 -I 100 -B
+  MCC on test data: 0.28734835481262366
+               AUC: 0.7548500881834215
+              Acc.: 66.66666666666667
+Testing weka.classifiers.bayes.NaiveBayes on inact.arff
+  Checking option: 
+  MCC on test data: 0.31514263857532193
+               AUC: 0.7354497354497355
+              Acc.: 66.66666666666667
+  Checking option: -K
+  MCC on test data: 0.30500135773052856
+               AUC: 0.7292768959435626
+              Acc.: 66.66666666666667
+Testing weka.classifiers.functions.MLPClassifier on inact.arff
+  Checking option: -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+  MCC on test data: 0.36996692033029116
+               AUC: 0.7442680776014109
+              Acc.: 71.01449275362319
+  Checking option: -N 5 -R 1.0E-8 -O 1.0E-7 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+  MCC on test data: 0.20774211543193036
+               AUC: 0.7266313932980599
+              Acc.: 63.768115942028984
+Testing weka.classifiers.functions.LibSVM on inact.arff
+  Checking option: -D 3 -seed 1 -W 1 -R 0 -M 40
+  MCC on test data: NaN
+               AUC: 0.5
+              Acc.: 60.869565217391305
+  Checking option: -C 4 -G 9.765625E-4
+Zero Weights processed. Default weights will be used
+  MCC on test data: -0.07182430061427789
+               AUC: 0.4828042328042328
+              Acc.: 57.971014492753625
+Testing weka.classifiers.lazy.IBk on inact.arff
+  Checking option: 
+  MCC on test data: 0.20899470899470898
+               AUC: 0.6044973544973545
+              Acc.: 62.31884057971015
+  Checking option: -K 19 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+  MCC on test data: 0.234464177055446
+               AUC: 0.7023809523809523
+              Acc.: 63.768115942028984
+Completely done!

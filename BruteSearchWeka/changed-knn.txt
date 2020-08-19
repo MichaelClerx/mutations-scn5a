@@ -1,0 +1,1350 @@
+MCC: 0.4000494757988334
+AUC: 0.7271364317841079
+Acc: 77.77777777777777
+weka.classifiers.lazy.IBk -K 9 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.3897389567007864
+AUC: 0.7524362818590704
+Acc: 77.77777777777777
+weka.classifiers.lazy.IBk -K 7 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.36130453401987317
+AUC: 0.7162668665667167
+Acc: 75.92592592592592
+weka.classifiers.lazy.IBk -K 10 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.35488336117672975
+AUC: 0.724512743628186
+Acc: 75.92592592592592
+weka.classifiers.lazy.IBk -K 6 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.35488336117672975
+AUC: 0.724512743628186
+Acc: 75.92592592592592
+weka.classifiers.lazy.IBk -K 6 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.34871750543264535
+AUC: 0.6732571214392804
+Acc: 75.92592592592592
+weka.classifiers.lazy.IBk -K 5 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.34871750543264535
+AUC: 0.7256371814092953
+Acc: 75.92592592592592
+weka.classifiers.lazy.IBk -K 8 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.33730832656021775
+AUC: 0.7485007496251874
+Acc: 75.92592592592592
+weka.classifiers.lazy.IBk -K 10 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.33730832656021775
+AUC: 0.7485007496251874
+Acc: 75.92592592592592
+weka.classifiers.lazy.IBk -K 10 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.3341455734810091
+AUC: 0.722263868065967
+Acc: 75.30864197530865
+weka.classifiers.lazy.IBk -K 11 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.3321810723682816
+AUC: 0.7421289355322339
+Acc: 75.92592592592592
+weka.classifiers.lazy.IBk -K 9 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.3321810723682816
+AUC: 0.7408170914542729
+Acc: 75.92592592592592
+weka.classifiers.lazy.IBk -K 8 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.3321810723682816
+AUC: 0.7388493253373314
+Acc: 75.92592592592592
+weka.classifiers.lazy.IBk -K 9 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.3276382857659719
+AUC: 0.691904047976012
+Acc: 75.30864197530865
+weka.classifiers.lazy.IBk -K 5 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.3276382857659719
+AUC: 0.7029610194902549
+Acc: 75.30864197530865
+weka.classifiers.lazy.IBk -K 5 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.3276382857659719
+AUC: 0.691904047976012
+Acc: 75.30864197530865
+weka.classifiers.lazy.IBk -K 5 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.3276382857659719
+AUC: 0.7029610194902549
+Acc: 75.30864197530865
+weka.classifiers.lazy.IBk -K 5 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.32731421200406624
+AUC: 0.6829085457271364
+Acc: 74.69135802469135
+weka.classifiers.lazy.IBk -K 5 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.32731421200406624
+AUC: 0.6829085457271364
+Acc: 74.69135802469135
+weka.classifiers.lazy.IBk -K 5 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.326136519787729
+AUC: 0.6722263868065967
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 3 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.326136519787729
+AUC: 0.6722263868065967
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 3 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.3235623478941388
+AUC: 0.7549662668665668
+Acc: 75.92592592592592
+weka.classifiers.lazy.IBk -K 7 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.3178288194327959
+AUC: 0.683095952023988
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 3 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.3178288194327959
+AUC: 0.684407796101949
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 3 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.3178288194327959
+AUC: 0.684407796101949
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 3 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.3178288194327959
+AUC: 0.683095952023988
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 3 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.3154208876304205
+AUC: 0.731071964017991
+Acc: 75.30864197530865
+weka.classifiers.lazy.IBk -K 10 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.3154208876304205
+AUC: 0.7355697151424287
+Acc: 75.30864197530865
+weka.classifiers.lazy.IBk -K 9 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.3154208876304205
+AUC: 0.7355697151424287
+Acc: 75.30864197530865
+weka.classifiers.lazy.IBk -K 9 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.3154208876304205
+AUC: 0.7265742128935532
+Acc: 75.30864197530865
+weka.classifiers.lazy.IBk -K 9 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.3154208876304205
+AUC: 0.7265742128935532
+Acc: 75.30864197530865
+weka.classifiers.lazy.IBk -K 9 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.3141763727632353
+AUC: 0.7083958020989505
+Acc: 74.07407407407408
+weka.classifiers.lazy.IBk -K 6 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.3141763727632353
+AUC: 0.6677286356821589
+Acc: 74.07407407407408
+weka.classifiers.lazy.IBk -K 5 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.3141763727632353
+AUC: 0.7083958020989505
+Acc: 74.07407407407408
+weka.classifiers.lazy.IBk -K 6 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.3130081275059143
+AUC: 0.7393178410794603
+Acc: 74.69135802469135
+weka.classifiers.lazy.IBk -K 13 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.3130081275059143
+AUC: 0.7162668665667167
+Acc: 74.69135802469135
+weka.classifiers.lazy.IBk -K 12 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.30610969998643806
+AUC: 0.7303223388305847
+Acc: 74.69135802469135
+weka.classifiers.lazy.IBk -K 7 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.2994137711491531
+AUC: 0.7378185907046477
+Acc: 74.69135802469135
+weka.classifiers.lazy.IBk -K 6 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.2989036575279339
+AUC: 0.7370689655172413
+Acc: 74.07407407407408
+weka.classifiers.lazy.IBk -K 10 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.2989036575279339
+AUC: 0.7370689655172413
+Acc: 74.07407407407408
+weka.classifiers.lazy.IBk -K 10 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.29626977990586484
+AUC: 0.7288230884557722
+Acc: 75.30864197530865
+weka.classifiers.lazy.IBk -K 10 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.29465015732908056
+AUC: 0.696776611694153
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 4 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.29465015732908056
+AUC: 0.696776611694153
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 4 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.2935263077717143
+AUC: 0.7065217391304348
+Acc: 75.30864197530865
+weka.classifiers.lazy.IBk -K 8 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.2935263077717143
+AUC: 0.7065217391304348
+Acc: 75.30864197530865
+weka.classifiers.lazy.IBk -K 8 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.29332388998825937
+AUC: 0.7018365817091454
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 6 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.28903814610466144
+AUC: 0.7202023988005997
+Acc: 72.8395061728395
+weka.classifiers.lazy.IBk -K 9 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.28903814610466144
+AUC: 0.7202023988005997
+Acc: 72.8395061728395
+weka.classifiers.lazy.IBk -K 9 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.2867990689904011
+AUC: 0.6875
+Acc: 74.69135802469135
+weka.classifiers.lazy.IBk -K 4 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.2867990689904011
+AUC: 0.6875
+Acc: 74.69135802469135
+weka.classifiers.lazy.IBk -K 4 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.28408684332421946
+AUC: 0.7241379310344828
+Acc: 74.07407407407408
+weka.classifiers.lazy.IBk -K 14 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.2834615490240474
+AUC: 0.639055472263868
+Acc: 71.60493827160494
+weka.classifiers.lazy.IBk -K 3 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.2834615490240474
+AUC: 0.6434595202398801
+Acc: 71.60493827160494
+weka.classifiers.lazy.IBk -K 2 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.2834615490240474
+AUC: 0.664167916041979
+Acc: 71.60493827160494
+weka.classifiers.lazy.IBk -K 2 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.2772987495791832
+AUC: 0.7273238380809596
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 12 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.2772987495791832
+AUC: 0.7230134932533733
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 9 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.2772987495791832
+AUC: 0.6975262368815592
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 7 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.2772987495791832
+AUC: 0.7123313343328336
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 6 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.2772987495791832
+AUC: 0.7273238380809596
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 12 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.2768853040737628
+AUC: 0.7280734632683659
+Acc: 74.07407407407408
+weka.classifiers.lazy.IBk -K 11 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.2725174837931191
+AUC: 0.6789730134932533
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 4 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.2725174837931191
+AUC: 0.6249062968515742
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 1 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.2725174837931191
+AUC: 0.6607008995502249
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 1 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.2725174837931191
+AUC: 0.6200337331334332
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 1 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.2725174837931191
+AUC: 0.6789730134932533
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 4 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.2721030748148994
+AUC: 0.6889055472263869
+Acc: 72.8395061728395
+weka.classifiers.lazy.IBk -K 7 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.2698572269814306
+AUC: 0.7010869565217391
+Acc: 74.07407407407408
+weka.classifiers.lazy.IBk -K 5 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.2698572269814306
+AUC: 0.6982758620689655
+Acc: 74.07407407407408
+weka.classifiers.lazy.IBk -K 5 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.2693765359880655
+AUC: 0.7185157421289355
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 8 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.2693765359880655
+AUC: 0.7185157421289355
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 8 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.26816332621105005
+AUC: 0.7085832083958021
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 9 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.2615192157380884
+AUC: 0.7314467766116941
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 11 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.2615192157380884
+AUC: 0.7404422788605697
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 12 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.2615192157380884
+AUC: 0.7404422788605697
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 12 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.2593335679724525
+AUC: 0.703335832083958
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 7 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.2593335679724525
+AUC: 0.703335832083958
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 7 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.25652102444440883
+AUC: 0.7453148425787106
+Acc: 74.07407407407408
+weka.classifiers.lazy.IBk -K 8 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.25652102444440883
+AUC: 0.7192653673163418
+Acc: 74.07407407407408
+weka.classifiers.lazy.IBk -K 6 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.25652102444440883
+AUC: 0.7192653673163418
+Acc: 74.07407407407408
+weka.classifiers.lazy.IBk -K 6 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.2552270957331104
+AUC: 0.728448275862069
+Acc: 72.8395061728395
+weka.classifiers.lazy.IBk -K 15 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.2552270957331104
+AUC: 0.7166416791604198
+Acc: 72.8395061728395
+weka.classifiers.lazy.IBk -K 16 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.2552270957331104
+AUC: 0.7166416791604198
+Acc: 72.8395061728395
+weka.classifiers.lazy.IBk -K 16 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.2537359794766466
+AUC: 0.7621814092953523
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 13 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.2504806290145683
+AUC: 0.720952023988006
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 14 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.2504769681369556
+AUC: 0.651424287856072
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 3 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.2503847853124135
+AUC: 0.7475637181409296
+Acc: 74.07407407407408
+weka.classifiers.lazy.IBk -K 10 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.2503847853124135
+AUC: 0.7475637181409296
+Acc: 74.07407407407408
+weka.classifiers.lazy.IBk -K 10 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.2467918120288195
+AUC: 0.6979010494752623
+Acc: 72.8395061728395
+weka.classifiers.lazy.IBk -K 5 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.24604341181808093
+AUC: 0.764055472263868
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 13 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.24604341181808093
+AUC: 0.7149550224887556
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 6 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.2448057525882945
+AUC: 0.7246064467766117
+Acc: 74.07407407407408
+weka.classifiers.lazy.IBk -K 16 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.24437394945636093
+AUC: 0.6986506746626686
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 8 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.23920329876019344
+AUC: 0.662856071964018
+Acc: 69.1358024691358
+weka.classifiers.lazy.IBk -K 4 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.23666290554475441
+AUC: 0.7429722638680659
+Acc: 74.07407407407408
+weka.classifiers.lazy.IBk -K 6 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.23489957518027663
+AUC: 0.6615442278860569
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 4 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.23489957518027663
+AUC: 0.712143928035982
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 10 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.23293368187525257
+AUC: 0.6474887556221889
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 3 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.23264337198969293
+AUC: 0.7217016491754122
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 7 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.23264337198969293
+AUC: 0.7217016491754122
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 7 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.23264337198969293
+AUC: 0.7116754122938531
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 7 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.23264337198969293
+AUC: 0.7116754122938531
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 7 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.23089574279426298
+AUC: 0.6071964017991005
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 1 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.23089574279426298
+AUC: 0.6246251874062968
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 1 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.23089574279426298
+AUC: 0.6428035982008995
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 2 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.23089574279426298
+AUC: 0.6471139430284858
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 2 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.23089574279426298
+AUC: 0.6229385307346327
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 1 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.23089574279426298
+AUC: 0.6246251874062968
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 1 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.23089574279426298
+AUC: 0.6428035982008995
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 2 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.23089574279426298
+AUC: 0.6471139430284858
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 2 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.23089574279426298
+AUC: 0.6229385307346327
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 1 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.23089574279426298
+AUC: 0.6071964017991005
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 1 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.229896650408312
+AUC: 0.7247001499250375
+Acc: 72.8395061728395
+weka.classifiers.lazy.IBk -K 16 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.229896650408312
+AUC: 0.7316341829085458
+Acc: 72.8395061728395
+weka.classifiers.lazy.IBk -K 13 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.229896650408312
+AUC: 0.7426911544227887
+Acc: 72.8395061728395
+weka.classifiers.lazy.IBk -K 14 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.229896650408312
+AUC: 0.655828335832084
+Acc: 72.8395061728395
+weka.classifiers.lazy.IBk -K 4 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.22841982562178356
+AUC: 0.7233883058470765
+Acc: 71.60493827160494
+weka.classifiers.lazy.IBk -K 13 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.22841982562178356
+AUC: 0.6446776611694153
+Acc: 71.60493827160494
+weka.classifiers.lazy.IBk -K 3 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.22841982562178356
+AUC: 0.6269677661169415
+Acc: 71.60493827160494
+weka.classifiers.lazy.IBk -K 3 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.22841982562178356
+AUC: 0.6806596701649176
+Acc: 71.60493827160494
+weka.classifiers.lazy.IBk -K 4 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.22534324595664562
+AUC: 0.7350074962518741
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 11 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.22534324595664562
+AUC: 0.7350074962518741
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 11 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.22362466032702372
+AUC: 0.75
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 11 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.22362466032702372
+AUC: 0.7480322338830585
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 11 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.22362466032702372
+AUC: 0.7480322338830585
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 11 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.22362466032702372
+AUC: 0.75
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 11 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.22143189939491834
+AUC: 0.6381184407796102
+Acc: 72.8395061728395
+weka.classifiers.lazy.IBk -K 2 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.22143189939491834
+AUC: 0.6381184407796102
+Acc: 72.8395061728395
+weka.classifiers.lazy.IBk -K 2 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.21902150071667972
+AUC: 0.720952023988006
+Acc: 71.60493827160494
+weka.classifiers.lazy.IBk -K 14 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.21902150071667972
+AUC: 0.720952023988006
+Acc: 71.60493827160494
+weka.classifiers.lazy.IBk -K 14 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.21711143699009064
+AUC: 0.7177661169415293
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 18 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.21711143699009064
+AUC: 0.6851574212893553
+Acc: 73.45679012345678
+weka.classifiers.lazy.IBk -K 4 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.21567971829384786
+AUC: 0.6441154422788605
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 3 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.21567971829384786
+AUC: 0.7037106446776612
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 8 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.21567971829384786
+AUC: 0.6724137931034483
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 4 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.21567971829384786
+AUC: 0.7037106446776612
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 8 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.21567971829384786
+AUC: 0.654047976011994
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 3 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.2145134330308291
+AUC: 0.7406296851574213
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 11 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.2145134330308291
+AUC: 0.7325712143928036
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 15 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.2145134330308291
+AUC: 0.732383808095952
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 12 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.2145134330308291
+AUC: 0.7195464767616192
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 17 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.21332451202153624
+AUC: 0.6463643178410795
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 3 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.20587999372572108
+AUC: 0.6684782608695652
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 9 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.20587999372572108
+AUC: 0.7188905547226386
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 16 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.20528775464576077
+AUC: 0.7233883058470765
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 15 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.20528775464576077
+AUC: 0.7211394302848576
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 16 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.20449979071896215
+AUC: 0.7291041979010495
+Acc: 72.8395061728395
+weka.classifiers.lazy.IBk -K 12 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.20333443500208553
+AUC: 0.722263868065967
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 11 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.20333443500208553
+AUC: 0.7211394302848576
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 12 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.20163582414950318
+AUC: 0.6549850074962519
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 4 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.20073033123565764
+AUC: 0.6238755622188905
+Acc: 67.28395061728395
+weka.classifiers.lazy.IBk -K 1 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.20073033123565764
+AUC: 0.6281859070464768
+Acc: 67.28395061728395
+weka.classifiers.lazy.IBk -K 2 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.20073033123565764
+AUC: 0.6238755622188905
+Acc: 67.28395061728395
+weka.classifiers.lazy.IBk -K 1 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.20073033123565764
+AUC: 0.591079460269865
+Acc: 67.28395061728395
+weka.classifiers.lazy.IBk -K 1 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.20073033123565764
+AUC: 0.626311844077961
+Acc: 67.28395061728395
+weka.classifiers.lazy.IBk -K 2 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.2002466957311047
+AUC: 0.654047976011994
+Acc: 67.90123456790124
+weka.classifiers.lazy.IBk -K 4 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.19981413696044736
+AUC: 0.7179535232383808
+Acc: 71.60493827160494
+weka.classifiers.lazy.IBk -K 17 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.19981413696044736
+AUC: 0.7198275862068966
+Acc: 71.60493827160494
+weka.classifiers.lazy.IBk -K 14 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.19981413696044736
+AUC: 0.7198275862068966
+Acc: 71.60493827160494
+weka.classifiers.lazy.IBk -K 14 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.19591020799132036
+AUC: 0.718328335832084
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 18 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.19591020799132036
+AUC: 0.718328335832084
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 18 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.19135292394083875
+AUC: 0.6272488755622189
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 3 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.18639331129347764
+AUC: 0.7088643178410795
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 8 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.18639331129347764
+AUC: 0.7098013493253373
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 14 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.18639331129347764
+AUC: 0.7098013493253373
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 14 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.18573010491595904
+AUC: 0.7155172413793104
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 18 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.18573010491595904
+AUC: 0.7155172413793104
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 18 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.18573010491595904
+AUC: 0.7306971514242878
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 17 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.18573010491595904
+AUC: 0.7162668665667167
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 19 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.18573010491595904
+AUC: 0.7097076461769115
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 18 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.182815905700249
+AUC: 0.6748500749625187
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 6 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.18087880757312738
+AUC: 0.6669790104947526
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 5 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.17981708767568774
+AUC: 0.6202211394302849
+Acc: 71.60493827160494
+weka.classifiers.lazy.IBk -K 2 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.17981708767568774
+AUC: 0.7236694152923538
+Acc: 71.60493827160494
+weka.classifiers.lazy.IBk -K 15 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.17666902684931565
+AUC: 0.7370689655172413
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 14 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.17529088658501157
+AUC: 0.6724137931034483
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 14 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.17529088658501157
+AUC: 0.7231071964017991
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 19 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.17220174943801958
+AUC: 0.7164542728635682
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 19 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.17220174943801958
+AUC: 0.7207646176911544
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 17 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.17220174943801958
+AUC: 0.7164542728635682
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 19 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.17220174943801958
+AUC: 0.7140179910044977
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 18 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.17017061579899
+AUC: 0.6622938530734632
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 8 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.16940067651989263
+AUC: 0.6859070464767616
+Acc: 71.60493827160494
+weka.classifiers.lazy.IBk -K 12 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.16672167654253378
+AUC: 0.7322901049475262
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 12 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.16672167654253378
+AUC: 0.7322901049475262
+Acc: 72.22222222222223
+weka.classifiers.lazy.IBk -K 12 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.16453209747344064
+AUC: 0.6825337331334332
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 16 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.16127855340378966
+AUC: 0.6684782608695652
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 12 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.16127855340378966
+AUC: 0.721420539730135
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 17 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.1591770439929478
+AUC: 0.7185157421289355
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 16 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.1591770439929478
+AUC: 0.7187031484257871
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 18 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.1591770439929478
+AUC: 0.7185157421289355
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 16 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.153493478194039
+AUC: 0.6206896551724138
+Acc: 64.19753086419753
+weka.classifiers.lazy.IBk -K 2 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.153493478194039
+AUC: 0.5627811094452774
+Acc: 64.19753086419753
+weka.classifiers.lazy.IBk -K 1 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.153493478194039
+AUC: 0.5691529235382309
+Acc: 64.19753086419753
+weka.classifiers.lazy.IBk -K 1 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.153493478194039
+AUC: 0.6137556221889056
+Acc: 64.19753086419753
+weka.classifiers.lazy.IBk -K 2 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.153493478194039
+AUC: 0.5637181409295352
+Acc: 64.19753086419753
+weka.classifiers.lazy.IBk -K 1 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.1533769571186502
+AUC: 0.6794415292353823
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 2 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.14997549726207476
+AUC: 0.670352323838081
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 15 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.14997549726207476
+AUC: 0.6802848575712144
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 10 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.14783554950489433
+AUC: 0.7157046476761619
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 15 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.14783554950489433
+AUC: 0.7157046476761619
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 15 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.14783554950489433
+AUC: 0.6797226386806596
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 8 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.14736464222145493
+AUC: 0.735944527736132
+Acc: 71.60493827160494
+weka.classifiers.lazy.IBk -K 12 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.14661031068381827
+AUC: 0.7215142428785607
+Acc: 69.1358024691358
+weka.classifiers.lazy.IBk -K 19 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.1417250917231472
+AUC: 0.6259370314842578
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 2 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.1417250917231472
+AUC: 0.6945277361319341
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 13 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.1417250917231472
+AUC: 0.6906859070464768
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 13 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.13820227595645715
+AUC: 0.7375374812593704
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 15 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.13606834013919406
+AUC: 0.675599700149925
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 13 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.13606834013919406
+AUC: 0.6894677661169415
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 6 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.13490671814261962
+AUC: 0.6671664167916042
+Acc: 69.1358024691358
+weka.classifiers.lazy.IBk -K 10 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.13490671814261962
+AUC: 0.7130809595202399
+Acc: 69.1358024691358
+weka.classifiers.lazy.IBk -K 15 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.13490671814261962
+AUC: 0.7130809595202399
+Acc: 69.1358024691358
+weka.classifiers.lazy.IBk -K 15 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.13446123787225894
+AUC: 0.7140179910044977
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 19 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.13446123787225894
+AUC: 0.6780359820089955
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 7 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.13446123787225894
+AUC: 0.7140179910044977
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 19 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.13446123787225894
+AUC: 0.7211394302848576
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 13 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.13446123787225894
+AUC: 0.7211394302848576
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 13 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.12944067313712238
+AUC: 0.7136431784107946
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 16 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.12944067313712238
+AUC: 0.6990254872563718
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 16 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.12944067313712238
+AUC: 0.676911544227886
+Acc: 70.98765432098766
+weka.classifiers.lazy.IBk -K 4 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.12584050255763451
+AUC: 0.6922788605697151
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 14 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.12377644030112046
+AUC: 0.684407796101949
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 18 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.12377644030112046
+AUC: 0.677848575712144
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 17 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.12377644030112046
+AUC: 0.7102698650674663
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 16 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.12377644030112046
+AUC: 0.7102698650674663
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 16 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.12274296984713196
+AUC: 0.6639805097451275
+Acc: 69.1358024691358
+weka.classifiers.lazy.IBk -K 11 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.12269407776255802
+AUC: 0.7068028485757122
+Acc: 67.90123456790124
+weka.classifiers.lazy.IBk -K 19 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.12269407776255802
+AUC: 0.7068028485757122
+Acc: 67.90123456790124
+weka.classifiers.lazy.IBk -K 19 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.12244387999457522
+AUC: 0.7145802098950524
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 17 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.12244387999457522
+AUC: 0.7147676161919041
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 17 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.12244387999457522
+AUC: 0.7025862068965517
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 15 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.12244387999457522
+AUC: 0.7025862068965517
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 15 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.12244387999457522
+AUC: 0.7145802098950524
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 17 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.12244387999457522
+AUC: 0.7147676161919041
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 17 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.11272980153205947
+AUC: 0.72797976011994
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 10 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.11272980153205947
+AUC: 0.7099887556221889
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 18 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.11272980153205947
+AUC: 0.7099887556221889
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 18 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.11083060942477806
+AUC: 0.7021176911544228
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 6 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.11040471566738753
+AUC: 0.70952023988006
+Acc: 67.90123456790124
+weka.classifiers.lazy.IBk -K 17 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.11040471566738753
+AUC: 0.70952023988006
+Acc: 67.90123456790124
+weka.classifiers.lazy.IBk -K 17 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.11001492068895617
+AUC: 0.6880622188905547
+Acc: 69.1358024691358
+weka.classifiers.lazy.IBk -K 9 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.11001492068895617
+AUC: 0.6819715142428786
+Acc: 69.1358024691358
+weka.classifiers.lazy.IBk -K 9 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.10994099409382965
+AUC: 0.683095952023988
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 5 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.10994099409382965
+AUC: 0.6944340329835083
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 5 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.09875185994552789
+AUC: 0.7151424287856072
+Acc: 67.28395061728395
+weka.classifiers.lazy.IBk -K 19 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.09864408703803514
+AUC: 0.7005247376311844
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 18 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.09864408703803514
+AUC: 0.7291041979010495
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 14 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ManhattanDistance
+
+MCC: 0.09684579369337656
+AUC: 0.7215142428785607
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 13 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.09684579369337656
+AUC: 0.7113943028485757
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 13 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.MinkowskiDistance
+
+MCC: 0.09684579369337656
+AUC: 0.7113943028485757
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 13 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.09684579369337656
+AUC: 0.7215142428785607
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 13 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.EuclideanDistance
+
+MCC: 0.09658746423722657
+AUC: 0.6870314842578711
+Acc: 69.1358024691358
+weka.classifiers.lazy.IBk -K 19 -I -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.093966588506271
+AUC: 0.6997751124437781
+Acc: 71.60493827160494
+weka.classifiers.lazy.IBk -K 18 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.08571071599620265
+AUC: 0.693215892053973
+Acc: 67.28395061728395
+weka.classifiers.lazy.IBk -K 7 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.08571071599620265
+AUC: 0.6909670164917541
+Acc: 67.28395061728395
+weka.classifiers.lazy.IBk -K 7 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.08324833246120437
+AUC: 0.6801911544227887
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 17 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.08324833246120437
+AUC: 0.6872188905547226
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 17 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.08302078312880032
+AUC: 0.7018365817091454
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 18 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.08228032859537641
+AUC: 0.681784107946027
+Acc: 69.1358024691358
+weka.classifiers.lazy.IBk -K 11 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.08228032859537641
+AUC: 0.6840329835082459
+Acc: 69.1358024691358
+weka.classifiers.lazy.IBk -K 11 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.0741991206509568
+AUC: 0.702023988005997
+Acc: 66.66666666666667
+weka.classifiers.lazy.IBk -K 19 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+
+MCC: 0.06601279857924901
+AUC: 0.7008995502248876
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 19 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.06601279857924901
+AUC: 0.7037106446776612
+Acc: 70.37037037037037
+weka.classifiers.lazy.IBk -K 19 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 0.030976123706494652
+AUC: 0.6885307346326837
+Acc: 69.1358024691358
+weka.classifiers.lazy.IBk -K 12 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 8.312032183745552E-4
+AUC: 0.6824400299850075
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 14 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: 8.312032183745552E-4
+AUC: 0.6912481259370314
+Acc: 69.75308641975309
+weka.classifiers.lazy.IBk -K 16 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: -0.0067179577623311835
+AUC: 0.6902173913043478
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 15 -F -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: -0.0067179577623311835
+AUC: 0.6841266866566716
+Acc: 68.51851851851852
+weka.classifiers.lazy.IBk -K 15 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: -0.021296085048215074
+AUC: 0.6814092953523239
+Acc: 67.90123456790124
+weka.classifiers.lazy.IBk -K 10 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+
+MCC: -0.021296085048215074
+AUC: 0.6719452773613194
+Acc: 67.90123456790124
+weka.classifiers.lazy.IBk -K 8 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.FilteredDistance
+

@@ -1,0 +1,1 @@
+Mutation count, human-squid-eel and domain-alignment score were measured per position, and then averaged using a sliding window with radius 5 leading to a window size of 11. At the borders, where the window is smaller, the average is computed by dividing through the effective window size at that point.

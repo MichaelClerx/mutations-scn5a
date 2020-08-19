@@ -1,0 +1,1000 @@
+MCC: 0.5523962896105147
+AUC: 0.7359154929577465
+Acc: 91.35802469135803
+weka.classifiers.functions.LibSVM -C 8.0 -G 3.0517578125E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.5274854252150617
+AUC: 0.7323943661971831
+Acc: 90.74074074074075
+weka.classifiers.functions.LibSVM -C 16.0 -G 1.52587890625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.5107787696613761
+AUC: 0.7109154929577465
+Acc: 90.74074074074075
+weka.classifiers.functions.LibSVM -C 16.0 -G 3.0517578125E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.495414011231885
+AUC: 0.6894366197183098
+Acc: 90.74074074074075
+weka.classifiers.functions.LibSVM -C 8.0 -G 1.52587890625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.4856140516128256
+AUC: 0.7073943661971831
+Acc: 90.12345679012346
+weka.classifiers.functions.LibSVM -C 128.0 -G 3.0517578125E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.4856140516128256
+AUC: 0.7073943661971831
+Acc: 90.12345679012346
+weka.classifiers.functions.LibSVM -C 64.0 -G 3.0517578125E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.4856140516128256
+AUC: 0.7073943661971831
+Acc: 90.12345679012346
+weka.classifiers.functions.LibSVM -C 256.0 -G 3.0517578125E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.4856140516128256
+AUC: 0.7073943661971831
+Acc: 90.12345679012346
+weka.classifiers.functions.LibSVM -C 32.0 -G 3.0517578125E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.4856140516128256
+AUC: 0.7073943661971831
+Acc: 90.12345679012346
+weka.classifiers.functions.LibSVM -C 32.0 -G 1.52587890625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.4856140516128256
+AUC: 0.7073943661971831
+Acc: 90.12345679012346
+weka.classifiers.functions.LibSVM -C 512.0 -G 3.0517578125E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.46274857757503146
+AUC: 0.7038732394366197
+Acc: 89.50617283950618
+weka.classifiers.functions.LibSVM -C 512.0 -G 1.52587890625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.46274857757503146
+AUC: 0.7038732394366197
+Acc: 89.50617283950618
+weka.classifiers.functions.LibSVM -C 128.0 -G 1.52587890625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.46274857757503146
+AUC: 0.7038732394366197
+Acc: 89.50617283950618
+weka.classifiers.functions.LibSVM -C 64.0 -G 1.52587890625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.46274857757503146
+AUC: 0.7038732394366197
+Acc: 89.50617283950618
+weka.classifiers.functions.LibSVM -C 256.0 -G 1.52587890625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.449537485728243
+AUC: 0.6644366197183098
+Acc: 90.12345679012346
+weka.classifiers.functions.LibSVM -C 16.0 -G 7.62939453125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.449537485728243
+AUC: 0.6644366197183098
+Acc: 90.12345679012346
+weka.classifiers.functions.LibSVM -C 4.0 -G 3.0517578125E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.4188318136151365
+AUC: 0.6788732394366197
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 32.0 -G 7.62939453125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.4046929804811349
+AUC: 0.6933098591549296
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 512.0 -G 7.62939453125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.4004967917460015
+AUC: 0.6394366197183099
+Acc: 89.50617283950618
+weka.classifiers.functions.LibSVM -C 2.0 -G 1.220703125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.3980117299350011
+AUC: 0.6753521126760563
+Acc: 88.27160493827161
+weka.classifiers.functions.LibSVM -C 128.0 -G 7.62939453125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.3789258455818664
+AUC: 0.671830985915493
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 256.0 -G 7.62939453125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.35204957561744743
+AUC: 0.6503521126760563
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 64.0 -G 7.62939453125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.35204957561744743
+AUC: 0.6503521126760563
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 64.0 -G 3.814697265625E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.34749521816970946
+AUC: 0.6144366197183099
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 32.0 -G 1.220703125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.34749521816970946
+AUC: 0.6144366197183099
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 256.0 -G 1.220703125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.34749521816970946
+AUC: 0.6144366197183099
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 4.0 -G 1.220703125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.34749521816970946
+AUC: 0.6144366197183099
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 16.0 -G 1.220703125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.34749521816970946
+AUC: 0.6144366197183099
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 512.0 -G 1.220703125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.34749521816970946
+AUC: 0.6144366197183099
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 64.0 -G 1.220703125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.34749521816970946
+AUC: 0.6144366197183099
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 128.0 -G 1.220703125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.34749521816970946
+AUC: 0.6144366197183099
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 8.0 -G 1.220703125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.34623730153009064
+AUC: 0.6323943661971831
+Acc: 88.27160493827161
+weka.classifiers.functions.LibSVM -C 4.0 -G 6.103515625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.3332748822949708
+AUC: 0.6468309859154929
+Acc: 87.03703703703704
+weka.classifiers.functions.LibSVM -C 512.0 -G 3.814697265625E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.3035680166935725
+AUC: 0.6253521126760564
+Acc: 87.03703703703704
+weka.classifiers.functions.LibSVM -C 128.0 -G 3.814697265625E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.30009093080501664
+AUC: 0.6397887323943662
+Acc: 85.80246913580247
+weka.classifiers.functions.LibSVM -C 256.0 -G 3.814697265625E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2979093821953246
+AUC: 0.55
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 256.0 -G 2.44140625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2979093821953246
+AUC: 0.55
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 64.0 -G 2.44140625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2979093821953246
+AUC: 0.55
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 512.0 -G 2.44140625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2979093821953246
+AUC: 0.55
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 8.0 -G 2.44140625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2979093821953246
+AUC: 0.55
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 4.0 -G 2.44140625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2979093821953246
+AUC: 0.55
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 2.0 -G 2.44140625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2979093821953246
+AUC: 0.55
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 32.0 -G 2.44140625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2979093821953246
+AUC: 0.55
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 16.0 -G 2.44140625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2979093821953246
+AUC: 0.55
+Acc: 88.88888888888889
+weka.classifiers.functions.LibSVM -C 128.0 -G 2.44140625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2935951459252979
+AUC: 0.6073943661971831
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 32.0 -G 3.814697265625E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2935951459252979
+AUC: 0.6073943661971831
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 16.0 -G 6.103515625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2935951459252979
+AUC: 0.6073943661971831
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 256.0 -G 6.103515625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2935951459252979
+AUC: 0.6073943661971831
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 8.0 -G 6.103515625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2935951459252979
+AUC: 0.6073943661971831
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 64.0 -G 6.103515625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2935951459252979
+AUC: 0.6073943661971831
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 32.0 -G 6.103515625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2935951459252979
+AUC: 0.6073943661971831
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 512.0 -G 6.103515625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2935951459252979
+AUC: 0.6073943661971831
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 128.0 -G 6.103515625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2893941002933731
+AUC: 0.5894366197183099
+Acc: 88.27160493827161
+weka.classifiers.functions.LibSVM -C 4.0 -G 1.52587890625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2893941002933731
+AUC: 0.5894366197183099
+Acc: 88.27160493827161
+weka.classifiers.functions.LibSVM -C 2.0 -G 6.103515625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2685380346549405
+AUC: 0.6183098591549295
+Acc: 85.80246913580247
+weka.classifiers.functions.LibSVM -C 512.0 -G 1.9073486328125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.2521038239062808
+AUC: 0.6003521126760564
+Acc: 86.41975308641975
+weka.classifiers.functions.LibSVM -C 512.0 -G 9.5367431640625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.23449776570430456
+AUC: 0.596830985915493
+Acc: 85.80246913580247
+weka.classifiers.functions.LibSVM -C 128.0 -G 1.9073486328125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.22448327568385834
+AUC: 0.5644366197183098
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 2.0 -G 3.0517578125E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.22448327568385834
+AUC: 0.5644366197183098
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 8.0 -G 7.62939453125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.21848509962206925
+AUC: 0.5933098591549296
+Acc: 85.18518518518519
+weka.classifiers.functions.LibSVM -C 256.0 -G 1.9073486328125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.15473739681095514
+AUC: 0.5538732394366197
+Acc: 85.80246913580247
+weka.classifiers.functions.LibSVM -C 64.0 -G 1.9073486328125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.15002167840717387
+AUC: 0.5394366197183098
+Acc: 87.03703703703704
+weka.classifiers.functions.LibSVM -C 16.0 -G 3.814697265625E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.125121825791003
+AUC: 0.5359154929577464
+Acc: 86.41975308641975
+weka.classifiers.functions.LibSVM -C 128.0 -G 9.5367431640625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.08767571658435747
+AUC: 0.5288732394366197
+Acc: 85.18518518518519
+weka.classifiers.functions.LibSVM -C 512.0 -G 4.76837158203125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.07281759849927301
+AUC: 0.5253521126760563
+Acc: 84.5679012345679
+weka.classifiers.functions.LibSVM -C 256.0 -G 9.5367431640625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: 0.04152385741627134
+AUC: 0.5109154929577465
+Acc: 85.80246913580247
+weka.classifiers.functions.LibSVM -C 256.0 -G 4.76837158203125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: -0.02957725649892708
+AUC: 0.4964788732394366
+Acc: 87.03703703703704
+weka.classifiers.functions.LibSVM -C 4.0 -G 7.62939453125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: -0.02957725649892708
+AUC: 0.4964788732394366
+Acc: 87.03703703703704
+weka.classifiers.functions.LibSVM -C 32.0 -G 1.9073486328125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: -0.02957725649892708
+AUC: 0.4964788732394366
+Acc: 87.03703703703704
+weka.classifiers.functions.LibSVM -C 1.0 -G 3.0517578125E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: -0.02957725649892708
+AUC: 0.4964788732394366
+Acc: 87.03703703703704
+weka.classifiers.functions.LibSVM -C 2.0 -G 1.52587890625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: -0.02957725649892708
+AUC: 0.4964788732394366
+Acc: 87.03703703703704
+weka.classifiers.functions.LibSVM -C 64.0 -G 4.76837158203125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: -0.041959067914834454
+AUC: 0.49295774647887325
+Acc: 86.41975308641975
+weka.classifiers.functions.LibSVM -C 1.0 -G 6.103515625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: -0.05155050105397385
+AUC: 0.4894366197183099
+Acc: 85.80246913580247
+weka.classifiers.functions.LibSVM -C 512.0 -G 1.1920928955078125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: -0.05155050105397385
+AUC: 0.4894366197183099
+Acc: 85.80246913580247
+weka.classifiers.functions.LibSVM -C 32.0 -G 9.5367431640625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: -0.05971346569560871
+AUC: 0.4859154929577465
+Acc: 85.18518518518519
+weka.classifiers.functions.LibSVM -C 128.0 -G 4.76837158203125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: -0.05971346569560871
+AUC: 0.4859154929577465
+Acc: 85.18518518518519
+weka.classifiers.functions.LibSVM -C 512.0 -G 2.384185791015625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: -0.05971346569560871
+AUC: 0.4859154929577465
+Acc: 85.18518518518519
+weka.classifiers.functions.LibSVM -C 64.0 -G 9.5367431640625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: -0.05971346569560871
+AUC: 0.4859154929577465
+Acc: 85.18518518518519
+weka.classifiers.functions.LibSVM -C 256.0 -G 2.384185791015625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 4.0 -G 9.765625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 4.0 -G 4.8828125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 4.0 -G 1.9073486328125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 0.015625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 64.0 -G 0.0078125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 2.44140625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 2.9802322387695312E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 128.0 -G 2.9802322387695312E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 32.0 -G 4.8828125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 64.0 -G 9.765625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 4.0 -G 0.0078125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 2.0 -G 2.9802322387695312E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 4.76837158203125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 8.0 -G 0.0078125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 4.0 -G 3.814697265625E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 64.0 -G 0.001953125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 16.0 -G 2.384185791015625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 128.0 -G 0.015625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 128.0 -G 2.384185791015625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 32.0 -G 0.015625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 32.0 -G 0.00390625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 1.1920928955078125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 256.0 -G 1.1920928955078125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 128.0 -G 1.1920928955078125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 1.52587890625E-5 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 512.0 -G 0.001953125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 64.0 -G 0.015625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 1.9073486328125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 2.384185791015625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 512.0 -G 0.0078125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 9.765625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 7.62939453125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 2.0 -G 7.62939453125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 16.0 -G 1.9073486328125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 8.0 -G 9.765625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 128.0 -G 4.8828125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 2.0 -G 9.765625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 64.0 -G 0.00390625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 32.0 -G 2.384185791015625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 4.0 -G 0.015625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 64.0 -G 2.384185791015625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 16.0 -G 1.1920928955078125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 32.0 -G 5.9604644775390625E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 2.0 -G 4.8828125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 3.814697265625E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 2.0 -G 0.00390625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 512.0 -G 0.015625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 8.0 -G 9.5367431640625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 0.0078125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 8.0 -G 2.9802322387695312E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 1.220703125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 8.0 -G 0.001953125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 2.0 -G 1.1920928955078125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 8.0 -G 2.384185791015625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 256.0 -G 0.00390625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 16.0 -G 0.001953125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 256.0 -G 9.765625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 8.0 -G 3.814697265625E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 64.0 -G 2.9802322387695312E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 8.0 -G 5.9604644775390625E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 16.0 -G 0.00390625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 128.0 -G 0.0078125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 32.0 -G 0.0078125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 4.0 -G 1.1920928955078125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 512.0 -G 9.765625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 16.0 -G 2.9802322387695312E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 256.0 -G 0.001953125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 0.00390625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 4.0 -G 5.9604644775390625E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 64.0 -G 5.9604644775390625E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 4.0 -G 0.001953125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 32.0 -G 9.765625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 2.0 -G 4.76837158203125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 128.0 -G 0.00390625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 5.9604644775390625E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 16.0 -G 4.8828125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 8.0 -G 4.8828125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 16.0 -G 9.765625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 16.0 -G 0.0078125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 64.0 -G 1.1920928955078125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 256.0 -G 5.9604644775390625E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 512.0 -G 4.8828125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 2.0 -G 9.5367431640625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 32.0 -G 2.9802322387695312E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 0.001953125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 4.0 -G 2.384185791015625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 2.0 -G 2.384185791015625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 512.0 -G 2.9802322387695312E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 16.0 -G 0.015625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 4.0 -G 2.9802322387695312E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 512.0 -G 0.00390625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 2.0 -G 3.814697265625E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 32.0 -G 4.76837158203125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 256.0 -G 2.9802322387695312E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 2.0 -G 1.9073486328125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 9.5367431640625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 2.0 -G 0.015625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 2.0 -G 0.001953125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 8.0 -G 1.1920928955078125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 128.0 -G 5.9604644775390625E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 128.0 -G 0.001953125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 256.0 -G 0.0078125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 16.0 -G 9.5367431640625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 64.0 -G 4.8828125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 8.0 -G 0.015625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 8.0 -G 4.76837158203125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 256.0 -G 0.015625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 16.0 -G 4.76837158203125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 8.0 -G 1.9073486328125E-6 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 32.0 -G 0.001953125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 2.0 -G 5.9604644775390625E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 8.0 -G 0.00390625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 4.0 -G 9.5367431640625E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 4.0 -G 0.00390625 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 4.0 -G 4.76837158203125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 512.0 -G 5.9604644775390625E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 32.0 -G 1.1920928955078125E-7 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 1.0 -G 4.8828125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 2.0 -G 0.0078125 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 16.0 -G 5.9604644775390625E-8 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 256.0 -G 4.8828125E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+
+MCC: NaN
+AUC: 0.5
+Acc: 87.65432098765432
+weka.classifiers.functions.LibSVM -C 128.0 -G 9.765625E-4 -D 3 -seed 1 -W 1 -R 0 -M 40
+

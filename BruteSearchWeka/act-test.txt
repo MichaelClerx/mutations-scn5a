@@ -1,0 +1,48 @@
+Testing weka.classifiers.rules.ZeroR on act.arff
+  Checking option: 
+  MCC on test data: NaN
+               AUC: 0.5
+              Acc.: 62.903225806451616
+Testing weka.classifiers.trees.RandomForest on act.arff
+  Checking option: 
+  MCC on test data: 0.5017439166994682
+               AUC: 0.6867335562987736
+              Acc.: 77.41935483870968
+  Checking option: -P 28 -K 3 -I 60
+  MCC on test data: 0.2444040554942532
+               AUC: 0.7001114827201784
+              Acc.: 66.12903225806451
+Testing weka.classifiers.bayes.NaiveBayes on act.arff
+  Checking option: 
+  MCC on test data: 0.32544312757038596
+               AUC: 0.6967670011148273
+              Acc.: 66.12903225806451
+Testing weka.classifiers.functions.MLPClassifier on act.arff
+  Checking option: -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+  MCC on test data: 0.06440048622241523
+               AUC: 0.48606465997770343
+              Acc.: 59.67741935483871
+  Checking option: -N 3 -R 0.001 -O 1.0E-9 -P 1 -E 1 -S 1 -L weka.classifiers.functions.loss.SquaredError -A weka.classifiers.functions.activation.ApproximateSigmoid
+  MCC on test data: 0.14425708913821014
+               AUC: 0.5039018952062431
+              Acc.: 62.903225806451616
+Testing weka.classifiers.functions.LibSVM on act.arff
+  Checking option: -D 3 -seed 1 -W 1 -R 0 -M 40
+  MCC on test data: NaN
+               AUC: 0.5
+              Acc.: 62.903225806451616
+  Checking option: -C 4 -G 9.765625E-4
+Zero Weights processed. Default weights will be used
+  MCC on test data: -0.017567711279214616
+               AUC: 0.496098104793757
+              Acc.: 61.29032258064516
+Testing weka.classifiers.lazy.IBk on act.arff
+  Checking option: 
+  MCC on test data: 0.09728705121615905
+               AUC: 0.5457079152731327
+              Acc.: 59.67741935483871
+  Checking option: -K 6 -A weka.core.neighboursearch.LinearNNSearch -A weka.core.ChebyshevDistance
+  MCC on test data: 0.21376856404182354
+               AUC: 0.6549609810479375
+              Acc.: 64.51612903225806
+Completely done!

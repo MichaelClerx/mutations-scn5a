@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="weka-3-9-2/weka.jar" sourcepath="weka-3-9-2/weka-src.jar"/>
+	<classpathentry kind="lib" path="weka-3-9-2/multiLayerPerceptrons.jar"/>
+	<classpathentry kind="lib" path="weka-3-9-2/libsvm-inner.jar"/>
+	<classpathentry kind="lib" path="weka-3-9-2/LibSVM-weka.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,100 @@
+@relation mutations
+
+@attribute index numeric
+@attribute delta_average_residue_mass numeric
+@attribute delta_percent_buried_residues numeric
+@attribute delta_v_waals numeric
+@attribute delta_polarity_ranking numeric
+@attribute delta_charge numeric
+@attribute delta_hydrophobicity numeric
+@attribute delta_helix_propensity numeric
+@attribute gonnet numeric
+@attribute grantham numeric
+@attribute hse numeric
+@attribute regtype {N-terminus,'Segment 1','Segment 2','Segment 3','Segment 4','Segment 5','Segment 6','Linker 1-2','Linker 2-3','Linker 3-4','Linker 4-5','Linker 5-6','Domain linker',C-terminus}
+@attribute segtype {Terminus,Segment,Linker,'Domain linker'}
+@attribute side {cytoplasmic,transmembrane,extracellular}
+@attribute dseg4 numeric
+@attribute dseg45 numeric
+@attribute dseg5 numeric
+@attribute dseg56 numeric
+@attribute dseg6 numeric
+@attribute dsegment numeric
+@attribute dlink34 numeric
+@attribute dcterm numeric
+@attribute dvi_disc {-1,0,1}
+
+@data
+1951,32.066,-6,19,1,0,1.9,-0.37,1.6,21,14,C-terminus,Terminus,cytoplasmic,307,292,269,204,179,179,428,0,0
+43,-28.0568,6.3,-34,2,-1,-3.4,0.18,1.5,43,1,N-terminus,Terminus,cytoplasmic,174,194,210,234,347,84,1427,1729,0
+1275,-0.9847,-4.5,5,-3,1,1.4,-0.04,2.2,23,100,'Segment 3',Segment,transmembrane,21,43,62,85,169,0,196,498,0
+1090,16.0428,17,34,-10,0,14.5,-2.95,-2.3,98,1,'Domain linker','Domain linker',cytoplasmic,206,228,227,176,150,111,381,683,0
+1714,-58.0366,22.5,-43,-8,1,0.9,0.31,0.1,94,100,'Linker 5-6',Linker,extracellular,70,55,32,0,34,32,191,59,0
+735,28.0538,18,38,-5,0,10.5,0.61,0.1,64,87,'Segment 1',Segment,transmembrane,71,91,107,128,179,0,735,1037,0
+1644,-19.0464,19,-30,-5,0,-0.5,0.4,0.6,29,83,'Segment 4',Segment,transmembrane,0,1,16,39,104,0,121,129,0
+630,30.0935,25,31,-7,0,12.4,-0.42,-0.6,81,5,'Domain linker','Domain linker',cytoplasmic,176,196,212,233,215,82,840,1142,0
+161,-0.9413,-15.8,26,2,2,-0.2,-0.14,1.2,56,100,'Segment 2',Segment,transmembrane,56,76,92,116,229,0,1309,1611,0
+104,-28.0568,6.3,-34,2,-1,-3.4,0.18,1.5,43,100,N-terminus,Terminus,cytoplasmic,113,133,149,173,286,23,1366,1668,0
+1623,-19.0464,19,-30,-5,0,-0.5,0.4,0.6,29,90,'Segment 4',Segment,transmembrane,0,22,37,60,125,0,100,150,0
+986,-28.0568,6.3,-34,2,-1,-3.4,0.18,1.5,43,10,'Domain linker','Domain linker',cytoplasmic,161,145,124,73,47,47,484,786,0
+1870,44.0098,-23.5,24,10,-1,-4.8,0.69,-0.3,126,50,C-terminus,Terminus,cytoplasmic,226,211,188,123,98,98,347,0,0
+572,76.0978,10,68,-7,0,26,0.54,-2.3,113,13,'Domain linker','Domain linker',cytoplasmic,234,254,270,183,157,140,898,1200,0
+1819,-0.9847,-4.5,5,-3,1,1.4,-0.04,2.2,23,31,C-terminus,Terminus,cytoplasmic,175,160,137,72,47,47,296,0,0
+572,44.0098,-23.5,24,10,-1,-4.8,0.69,-0.3,126,13,'Domain linker','Domain linker',cytoplasmic,234,254,270,183,157,140,898,1200,0
+245,0.0434,-2.1,21,3,1,-1.6,-0.13,1.5,53,66,'Linker 4-5',Linker,cytoplasmic,9,0,8,32,145,8,1225,1527,0
+817,0.9413,15.8,-26,-2,-2,0.2,0.14,1.2,56,100,'Segment 4',Segment,transmembrane,0,9,25,46,97,0,653,955,0
+648,16.0428,17,34,-10,0,14.5,-2.95,-2.3,98,6,'Domain linker','Domain linker',cytoplasmic,158,178,194,215,233,64,822,1124,0
+439,-0.9413,-15.8,26,2,2,-0.2,-0.14,1.2,56,72,'Domain linker','Domain linker',cytoplasmic,203,187,163,50,24,24,1031,1333,0
+524,76.0978,-11,68,-6,0,14.9,0.03,-1.9,144,27,'Domain linker','Domain linker',cytoplasmic,282,272,248,135,109,109,946,1248,0
+526,-19.0464,19,-30,-5,0,-0.5,0.4,0.6,29,10,'Domain linker','Domain linker',cytoplasmic,280,274,250,137,111,111,944,1246,0
+351,42.0806,19,57,-7,0,14.4,-0.39,-3.3,109,67,'Linker 5-6',Linker,extracellular,115,99,75,0,39,39,1119,1421,0
+569,30.0257,23,15,-9,-1,29,0.28,-1.6,101,15,'Domain linker','Domain linker',cytoplasmic,237,257,273,180,154,143,901,1203,0
+615,72.0635,-17,61,7,-1,-0.9,-0.6,-0.8,98,8,'Domain linker','Domain linker',cytoplasmic,191,211,227,226,200,97,855,1157,0
+95,14.0269,9,19,-3,0,8,-0.2,3.1,29,100,N-terminus,Terminus,cytoplasmic,122,142,158,182,295,32,1375,1677,0
+1774,0.9847,4.5,-5,3,-1,-1.4,0.04,2.2,23,63,C-terminus,Terminus,cytoplasmic,130,115,92,27,2,2,251,0,0
+647,44.0098,-23.5,24,10,-1,-4.8,0.69,-0.3,126,9,'Domain linker','Domain linker',cytoplasmic,159,179,195,216,232,65,823,1125,0
+571,-15.9994,14,-6,-5,0,3.4,-0.5,1.1,99,5,'Domain linker','Domain linker',cytoplasmic,235,255,271,182,156,141,899,1201,0
+1432,-28.0134,4.2,-13,5,0,-5,0.05,2.7,26,42,'Linker 5-6',Linker,extracellular,115,96,73,0,12,12,39,341,0
+336,16.0428,17,34,-10,0,14.5,-2.95,-2.3,98,64,'Linker 5-6',Linker,extracellular,100,84,60,0,54,54,1134,1436,0
+620,-19.0464,19,-30,-5,0,-0.5,0.4,0.6,29,8,'Domain linker','Domain linker',cytoplasmic,186,206,222,231,205,92,850,1152,0
+1952,-30.0935,-25,-31,7,0,-12.4,0.42,-0.6,81,7,C-terminus,Terminus,cytoplasmic,308,293,270,205,180,180,429,0,1
+397,34.0171,-17,11,1,0,7.5,0.13,1,21,73,'Segment 6',Segment,transmembrane,161,145,121,8,0,0,1073,1375,1
+1763,32.066,-6,19,1,0,1.9,-0.37,1.6,21,85,'Segment 6',Segment,transmembrane,119,104,81,16,0,0,240,10,1
+1512,30.0257,23,15,-9,-1,29,0.28,-1.6,101,73,'Domain linker','Domain linker',cytoplasmic,111,133,148,69,42,12,0,261,1
+219,-19.0464,19,-30,-5,0,-0.5,0.4,0.6,29,90,'Segment 4',Segment,transmembrane,0,18,34,58,171,0,1251,1553,1
+1473,-44.0318,-1,-49,5,0,-21.6,0.14,-0.8,205,100,'Domain linker','Domain linker',cytoplasmic,150,137,114,30,3,3,0,300,1
+808,-28.0568,6.3,-34,2,-1,-3.4,0.18,1.5,43,100,'Segment 4',Segment,transmembrane,0,18,34,55,106,0,662,964,1
+126,0.9413,15.8,-26,-2,-2,0.2,0.14,1.2,56,60,N-terminus,Terminus,cytoplasmic,91,111,127,151,264,1,1344,1646,1
+216,26.0813,17,51,-11,0,23.7,-0.29,-2.1,145,69,'Linker 3-4',Linker,extracellular,1,21,37,61,174,1,1254,1556,1
+125,14.0269,-15,19,-1,0,9.8,-0.4,1.8,32,71,N-terminus,Terminus,cytoplasmic,92,112,128,152,265,2,1345,1647,1
+1512,-28.0568,6.3,-34,2,-1,-3.4,0.18,1.5,43,73,'Domain linker','Domain linker',cytoplasmic,111,133,148,69,42,12,0,261,1
+292,30.0262,-13,25,3,0,0.5,-0.5,0.4,56,24,'Linker 5-6',Linker,extracellular,56,40,16,0,98,16,1178,1480,1
+1764,32.066,-6,19,1,0,1.9,-0.37,1.6,21,93,'Segment 6',Segment,transmembrane,120,105,82,17,0,0,241,9,1
+406,-27.0257,14,-23,-2,0,0,-0.15,0.9,46,89,'Segment 6',Segment,transmembrane,170,154,130,17,0,0,1064,1366,1
+1295,-0.9413,-15.8,26,2,2,-0.2,-0.14,1.2,56,38,'Linker 3-4',Linker,extracellular,1,23,42,65,149,1,176,478,1
+1340,14.0269,9,19,-3,0,8,-0.2,3.1,29,100,'Segment 5',Segment,transmembrane,23,4,0,20,104,0,131,433,1
+1690,-0.9847,-4.5,5,-3,1,1.4,-0.04,2.2,23,100,'Linker 5-6',Linker,extracellular,46,31,8,0,58,8,167,83,1
+1777,32.066,-6,19,1,0,1.9,-0.37,1.6,21,62,C-terminus,Terminus,cytoplasmic,133,118,95,30,5,5,254,0,-1
+512,12.0544,40,31,-11,0,18.5,-0.25,-0.6,89,8,'Domain linker','Domain linker',cytoplasmic,276,260,236,123,97,97,958,1260,-1
+1158,30.0262,-13,25,3,0,0.5,-0.5,0.4,56,12,'Domain linker','Domain linker',cytoplasmic,138,160,179,202,218,43,313,615,-1
+1795,-60.0312,34,-55,-1,0,-7.1,0.15,-0.5,194,59,C-terminus,Terminus,cytoplasmic,151,136,113,48,23,23,272,0,-1
+551,28.0538,18,38,-5,0,10.5,0.61,0.1,64,1,'Domain linker','Domain linker',cytoplasmic,255,275,275,162,136,136,919,1221,-1
+411,32.066,-6,19,1,0,1.9,-0.37,1.6,21,87,'Segment 6',Segment,transmembrane,175,159,135,22,0,0,1059,1361,-1
+1896,-14.0269,15,-19,1,0,-9.8,0.4,1.8,32,75,C-terminus,Terminus,cytoplasmic,252,237,214,149,124,124,373,0,-1
+1904,26.0813,17,51,-11,0,23.7,-0.29,-2.1,145,60,C-terminus,Terminus,cytoplasmic,260,245,222,157,132,132,381,0,-1
+225,-28.0568,6.3,-34,2,-1,-3.4,0.18,1.5,43,100,'Segment 4',Segment,transmembrane,0,12,28,52,165,0,1245,1547,-1
+462,-0.9413,-15.8,26,2,2,-0.2,-0.14,1.2,56,37,'Domain linker','Domain linker',cytoplasmic,226,210,186,73,47,47,1008,1310,-1
+220,12.0544,40,31,-11,0,18.5,-0.25,-0.6,89,100,'Segment 4',Segment,transmembrane,0,17,33,57,170,0,1250,1552,-1
+1779,30.0935,25,31,-7,0,12.4,-0.42,-0.6,81,84,C-terminus,Terminus,cytoplasmic,135,120,97,32,7,7,256,0,-1
+1632,-19.0464,19,-30,-5,0,-0.5,0.4,0.6,29,83,'Segment 4',Segment,transmembrane,0,13,28,51,116,0,109,141,-1
+1897,30.0257,23,15,-9,-1,29,0.28,-1.6,101,66,C-terminus,Terminus,cytoplasmic,253,238,215,150,125,125,374,0,-1
+1623,-28.0568,6.3,-34,2,-1,-3.4,0.18,1.5,43,90,'Segment 4',Segment,transmembrane,0,22,37,60,125,0,100,150,-1
+1620,27.0691,-20.8,42,8,1,-5,-0.4,0.1,78,93,'Linker 3-4',Linker,extracellular,3,25,40,63,128,3,97,153,-1
+1180,28.0538,18,38,-5,0,10.5,0.61,0.1,64,33,'Domain linker','Domain linker',cytoplasmic,116,138,157,180,240,21,291,593,-1
+1309,-19.0464,19,-30,-5,0,-0.5,0.4,0.6,29,73,'Segment 4',Segment,transmembrane,0,9,28,51,135,0,162,464,-1
+1319,42.0806,19,57,-7,0,14.4,-0.39,-3.3,109,64,'Linker 4-5',Linker,cytoplasmic,2,0,18,41,125,2,152,454,-1
+1825,-16.0428,-17,-34,10,0,-14.5,2.95,-2.3,98,93,C-terminus,Terminus,cytoplasmic,181,166,143,78,53,53,302,0,-1
+400,14.0268,1,19,-2,0,3.9,-1,0.5,60,59,'Segment 6',Segment,transmembrane,164,148,124,11,0,0,1070,1372,-1
+1306,-27.0721,20,-39,3,-2,-4.8,0.19,0.4,54,71,'Segment 4',Segment,transmembrane,0,12,31,54,138,0,165,467,-1
+1506,-10.0385,0,-17,1,0,-9.2,-2.66,0.4,74,68,'Domain linker','Domain linker',cytoplasmic,117,139,147,63,36,18,0,267,-1
+692,0.0434,-2.1,21,3,1,-1.6,-0.13,1.5,53,40,'Domain linker','Domain linker',cytoplasmic,114,134,150,171,222,20,778,1080,-1
