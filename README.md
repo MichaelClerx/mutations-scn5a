@@ -46,7 +46,9 @@ We suspect these three causes:
    So charge, hydrophobicity, etc. all got ignored.
    This suggests we need a better way to create meaningful features that describe what a particular mutation _means_ for the channel protein.
 
+More recent work by other groups looked at similar problems, e.g. [Kroncke et al. 2019](https://doi.org/10.1016/j.csbj.2019.01.008), and [Heyne et al. 2020](https://doi.org/10.1126/scitranslmed.aay6848).
 
+The code and data for the 2018 publication is available from this repository, and described below:
 
 ## Main files
 
