@@ -68,9 +68,9 @@ We suspect these three causes:
 
 ## Citing this work
 
-If you use any of the code or data in this repository, please cit
+If you use anything from this repository, please cite:
 
-Michael Clerx, Jordi Heijman,, Pieter Collins, Paul G.A. Volders
-Predicting changes to INa from missense mutations in human SCN5A.
-Scienticif Reports 8, 12797 (2018).
-https://doi.org/10.1038/s41598-018-30577-5
+- Michael Clerx, Jordi Heijman,, Pieter Collins, Paul G.A. Volders
+  Predicting changes to INa from missense mutations in human SCN5A.
+  Scientific Reports 8, 12797 (2018).
+  https://doi.org/10.1038/s41598-018-30577-5
