@@ -50,21 +50,21 @@ We suspect these three causes:
 
 ## Main files
 
-- [db] Python code to turn CSV files into an SQLite database, perform queries, and create figures.
-- [db/base] Python code to create and manage the database.
-- [db/data-in] CSV files used to genenerate the SQLite database.
-- [db/data-out] CSV and WEKA files created by querying the database.
+- [db](db) Python code to turn CSV files into an SQLite database, perform queries, and create figures.
+- [db/base](db/base) Python code to create and manage the database.
+- [db/data-in](db/data-in) CSV files used to genenerate the SQLite database.
+- [db/data-out](db/data-out) CSV and WEKA files created by querying the database.
 - [db/figures-in](db/figures-in) Veusz ([link](https://veusz.github.io/)) figures that use the generated CSV data.
-- [db/figures-out] Rendered figures.
-- [db/tasks] Python code that uses the above to create a database, query it, store CSVs, and generated figures. Accessed via the `run` script.
-- [BruteSearchWeka] Java code that uses WEKA to perform machine-learning (and validation) on the WEKA files generated from the database.
+- [db/figures-out](db/figures-out) Rendered figures.
+- [db/tasks](db/tasks) Python code that uses the above to create a database, query it, store CSVs, and generated figures. Accessed via the `run` script.
+- [BruteSearchWeka](BruteSearchWeka) Java code that uses WEKA to perform machine-learning (and validation) on the WEKA files generated from the database.
 
 ## Auxillary files
 
-- [acid-scores] Python code to convert Gonnet, Granthan and PAM scores to a form suitable for the database.
-- [diagram] Python code that turns the SCN5A sequence into 2d coordinates, suitable for drawing a diagram.
-- [genetic-code] Python code to list the possible missense mutations in SCN5A.
-- [epdata-20160511.ods] OpenOffice/LibreOffice Calc file with the main EPDATA, but a little outdated compared to the database code (better to look at `db/data-in`).
+- [acid-scores](acid-scores) Python code to convert Gonnet, Granthan and PAM scores to a form suitable for the database.
+- [diagram](diagram) Python code that turns the SCN5A sequence into 2d coordinates, suitable for drawing a diagram.
+- [genetic-code](genetic-code) Python code to list the possible missense mutations in SCN5A.
+- [epdata-20160511.ods](epdata-20160511.ods) OpenOffice/LibreOffice Calc file with the main EPDATA, but a little outdated compared to the database code (better to look at `db/data-in`).
 
 ## Citing this work
 
