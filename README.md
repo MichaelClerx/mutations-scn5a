@@ -2,13 +2,13 @@
 
 This repository contains the code and data set for the 2018 publication [Predicting changes to INa from missense mutations in human SCN5A](https://doi.org/10.1038/s41598-018-30577-5) by Michael Clerx, Jordi Heijman, Pieter Collins, and Paul G.A. Volders.
 
-For this paper we created a list of 610 SCN5A missense mutations (that's all I could find in the summer of 2016), and found electrophysiology (EP) experiments had been performed for 243 of them.
+For this paper we created a list of **610 SCN5A missense mutations** (that's all I could find in the summer of 2016), and found **electrophysiology (EP) experiments had been performed for 243** of them.
 This is a considerable number, given that there are only 11923 mutations possible (so 5.1% appear in the literature, and 2.0% had been measured when we performed this study).
 Most data hadn't been published in a "raw" time-series form, but as "summary statistics" e.g. shifts in the midpoint of activation or inactivation of INa.
 We saw that 175 studies reported the EP data for INa/INaL had changed due to the mutation, while 68 showed no significant change.
 Activation was altered in 69 cases, inactivation in 125, the late component of INa had changed in 40 components, and 30 mutations showed no current at all.
 
-We asked if, given this data, we could predict the presence of these changes for the remaining 98% of mutants using statistics (or machine learning).
+**We asked if, given this data, we could predict the presence of these changes for the remaining 98% of mutants using statistics (or machine learning).**
 If so, this would enable fully in-silico predictions from genotype to INa phenotype, and then all the way up to pseudo-ECG using computaional modelling!
 So a very attractive prospect if possible.
 
