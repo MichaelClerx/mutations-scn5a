@@ -1,0 +1,4 @@
+CUR="$( cd -P "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+TOP=$( basename $CUR )
+git push ~/git/$TOP main --tags
+git push http://git.michaelclerx.com/$TOP/ main --tags
