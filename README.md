@@ -38,7 +38,7 @@ We suspect these three causes:
    Machine-learning works best if you have a good balance between each class (so e.g. equal numbers of mutations affecting activation and not affecting it).
    But who would express, measure, and publish a mutation that has no effect?
    Understandably, our data set was highly biased towards mutations with a strong effect.
-2. Inconsistentcy.
+2. Inconsistency.
    Measuring INa is hard, and lots of conditions matter.
    As a result, there was a lot of inconsistency in the data set (including for very similar experiments).
 3. The choice of features.
