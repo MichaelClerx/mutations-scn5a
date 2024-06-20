@@ -72,7 +72,7 @@ The code and data for the 2018 publication is available from this repository, an
 
 If you use anything from this repository, please cite:
 
-- Michael Clerx, Jordi Heijman,, Pieter Collins, Paul G.A. Volders
+- Michael Clerx, Jordi Heijman, Pieter Collins, Paul G.A. Volders
   Predicting changes to INa from missense mutations in human SCN5A.
   Scientific Reports 8, 12797 (2018).
   https://doi.org/10.1038/s41598-018-30577-5
