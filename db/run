@@ -1,20 +1,9 @@
 #!/usr/bin/env python3
+import os
 import base
-#
-# Run tasks
-#
-import sys
-args = sys.argv[1:]
-if args:
-    # Run selected
-    t = base.TaskRunner()
-    for task in args:
-        if task[-3:] != '.py':
-            task += '.py'
-        t.add_file(task)
-    t.run()
-else:
-    # Run all
-    t = base.TaskRunner()    
-    t.add_dir('./tasks')
-    t.run()
+
+path = os.path.join(base.DIR_CACHE, base.FILE_CACHE)
+if os.path.isfile(path):
+    os.remove(path)
+with base.connect():
+    pass

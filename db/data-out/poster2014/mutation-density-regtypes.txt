@@ -1,1 +1,0 @@
-Regtype name, regtype size, mutation density and relative mutation density.
