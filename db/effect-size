@@ -1,0 +1,34 @@
+#!/usr/bin/env python3
+#
+# Look at effect size versus standard error of the mean
+#
+import sys
+
+import numpy as np
+
+import base
+
+
+with base.connect() as con:
+    c = con.cursor()
+
+    print()
+    print('From epdata table')
+    q = 'select dva from epdata where dva is not null and abs(dva) > 0 and act == 1'
+    adva = np.abs(np.array([r['dva'] for r in c.execute(q)]))
+    q = 'select dvi from epdata where dvi is not null and abs(dvi) > 0 and inact == 1'
+    advi = np.abs(np.array([r['dvi'] for r in c.execute(q)]))
+    print(f'Median abs delta-V act   {np.median(adva)}')
+    print(f'  range                  {np.min(adva)}, {np.max(adva)}')
+    print(f'Median abs delta-V inact {np.median(advi)}')
+    print(f'  range                  {np.min(advi)}, {np.max(advi)}')
+
+    print()
+    print('From midpoints table')
+    q = 'select stda from midpoints_wt where stda > 0'
+    stda = np.array([r['stda'] for r in c.execute(q)])
+    print(f'Median std act   {np.median(stda)}')
+    #q = 'select dvi from epdata where dvi is not null'
+    #dvi = np.array([r['dvi'] for r in c.execute(q)])
+    #print(f'Mean abs delta-V inact {np.mean(np.abs(dvi))}')
+
