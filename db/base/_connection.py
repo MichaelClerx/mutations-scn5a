@@ -695,7 +695,7 @@ class Connection(object):
                                 ON scn5a.idx == conservedness.idx
                         ) AS s
                         CROSS JOIN region
-                    WHERE start <= idx GROUP BY idx;
+                    WHERE idx >= start AND idx <= "end" GROUP BY idx;
                 """
             try:
                 c.execute(q)

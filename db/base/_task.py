@@ -177,6 +177,9 @@ class TaskRunner(object):
         path = os.path.abspath(path)
         name = name[:-3]
         spec = importlib.machinery.PathFinder.find_spec(name, [path])
+        if spec is None:
+            raise Exception(
+                'No spec found for ' + str(name) + ' at ' + str(path))
         mod = importlib.util.module_from_spec(spec)
         spec.loader.exec_module(mod)
         if 'tasks' in dir(mod):
