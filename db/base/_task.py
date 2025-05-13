@@ -2,14 +2,15 @@
 #
 # Provides connections to the mutation database.
 #
-import base
-import os
 import csv
-import imp
+import fnmatch
+import importlib, importlib.machinery
+import os
 import sys
 import time
-import fnmatch
 import traceback
+
+import base
 
 
 class Task(object):
@@ -175,8 +176,9 @@ class TaskRunner(object):
         path, name = os.path.split(filename)
         path = os.path.abspath(path)
         name = name[:-3]
-        (filename, path, description) = imp.find_module(name, [path])
-        mod = imp.load_source(name, path)
+        spec = importlib.machinery.PathFinder.find_spec(name, [path])
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
         if 'tasks' in dir(mod):
             self.add_tasks(mod.tasks())
 
